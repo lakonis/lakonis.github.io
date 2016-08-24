@@ -15,14 +15,14 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/mystyle.css">
+  <link rel="stylesheet" href="{{ site.github.url }}public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.github.url }}public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.github.url }}public/css/hyde.css">
+  <link rel="stylesheet" href="{{ site.github.url }}public/css/mystyle.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
   <!-- For jquery accordeon -->
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/jquery-ui.css">
+  <link rel="stylesheet" href="{{ site.github.url }}public/css/jquery-ui.css">
   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
   <!-- Icons -->
@@ -32,9 +32,12 @@
   <!-- Adds-on Bootstrap Font Awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
+<!-- canonical & RSS -->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.github.url | prepend: site.url }}">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"> -->
 
   <!-- <script>
   $(function() {
