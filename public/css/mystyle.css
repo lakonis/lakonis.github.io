@@ -1,0 +1,81 @@
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  /*margin-bottom: 1.5rem;*/
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+p {
+  font-size: smaller;
+}
+
+/*ul {
+  margin-top: -0.7rem;
+}*/
+
+li {
+  list-style-type: "-  ";
+  font-size: smaller;
+}
+
+td {
+  font-size: smaller;
+}
+
+.lead {
+  font-family: PT serif;
+  font-size: 0.75rem;
+  font-weight: 300;
+}
+
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 2.25rem;
+}
+
+.home div  {
+  padding-top: 10rem;
+}
+
+.sidebar-nav-item {
+  font-family: "PT Sans Narrow",sans-serif;
+  text-transform: uppercase;
+}
+
+/*a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
+}*/
+
+.footer {
+  font-size: small;
+}
+
+/* Theme grey */
+.theme-base-grey .sidebar {
+  background-color: LightYellow;
+}
+.theme-base-0d .content a,
+.theme-base-0d .related-posts li a:hover {
+  color: LightYellow;
+}
+
+/*.myaccordion {
+  font-family: "PT Sans",Helvetica,Arial,sans-serif;
+  font-size: 1rem;
+}*/

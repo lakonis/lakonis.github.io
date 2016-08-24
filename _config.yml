@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+# highlighter:      pygments
+gems:             [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            'Nicolas Sauret'
+tagline:          'Recherches et projets'
+description:      'Editorialisation, Écritures numériques, Knowledge Design, Digital Humanities'
+url:              "http://nicosauret.com"
+baseurl:          /
+
+author:
+  name:           'Nicolas Sauret'
+  url:            https://twitter.com/nicolasauret
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:
