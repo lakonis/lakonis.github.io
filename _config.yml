@@ -23,5 +23,5 @@ paginate:         5
 # Custom vars
 version:          0.1
 
-github:           lakonis
+github:           
   repo:           lakonis.github.io
