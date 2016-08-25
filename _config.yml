@@ -11,7 +11,7 @@ permalink:        pretty
 title:            'Nicolas Sauret'
 tagline:          'Recherches et projets'
 description:      'Editorialisation, Écritures numériques, Knowledge Design, Digital Humanities'
-url:              "http://nicosauret.com"
+url:              "http://nicolassauret.com"
 baseurl:          /
 
 author:
@@ -23,5 +23,5 @@ paginate:         5
 # Custom vars
 version:          0.1
 
-github:
-  repo:
+github:           lakonis
+  repo:           lakonis.github.io
