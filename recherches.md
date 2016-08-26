@@ -13,6 +13,9 @@ title: Recherches
 - programme, coordination et animation des sessions  
 - [site](seminaire.sens-public.org) et [archives](http://polemictweet.com/edito/select.php)
 
+<i class="fa fa-arrow-right"></i> **Etude du corpus Anarchy : expérience transmédia d'écriture collaborative**, 2015-2016  
+- [carnet de recherche]({{ site.github.url }}/behindanarchy/)
+
 <i class="fa fa-arrow-right"></i> **Organisation de la journée doctorale du Labex Les passés dans le présent**, 2016
 
 ## Activités passées
