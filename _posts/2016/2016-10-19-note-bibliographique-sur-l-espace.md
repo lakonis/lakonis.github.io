@@ -8,7 +8,7 @@ date: "2016-10-19 14:08"
 ## Source liste AIR-L
 > Avertissement: ces références ont été collectées à partir des suggestions données sur [la liste AIR-L](http://listserv.aoir.org/listinfo.cgi/air-l-aoir.org) (Association of Internet Researcher) sur un fil de discussion d'avril 2015, intitulé : [Article/literature on "conceptions of space/place" for teaching](http://listserv.aoir.org/pipermail/air-l-aoir.org/2015-April/thread.html#20)  
 > Le numérique y est largement pris en compte mais je n'ai pas vérifié la pertinence de toute ces références. Je vous renvoie à la source (AIR-L) pour les appréciations des participants.  
-> Merci d'annoter les références lorsque vous le pouvez. Pour ouvrir l'annotateur, surligner un entrée et laissez vous guider par le menu, ou cliquez en haut à droite pour ouvrir le volet d'annotation.
+> Merci d'annoter les références lorsque vous le pouvez. Pour ouvrir l'annotateur, surlignez un entrée et laissez vous guider par le menu, ou cliquez en haut à droite pour ouvrir le volet d'annotation.
 
 
 1. Kitchin and Dodge's work on code/space
