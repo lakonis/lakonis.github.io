@@ -40,7 +40,7 @@ Cas d'étude des Creative Commons : [https://wiki.creativecommons.org/wiki/Case_
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![page ONF](pic/onfRipRemix.png)
+![page ONF](pic2/onfRipRemix.png)
 
 ===
 
@@ -244,7 +244,7 @@ En réaction à cet enclosure des connaissances et à la fermeture des codes sou
 <!-- ![](pic/cc-icons-png/cc.png) -->
 <!-- ![](pic/cc-icons-png/zero.png) -->
 
-<div style="display:inline-block; vertical-align:middle; width:55%">![](pic/CC-licenses.png)</div>
+<div style="display:inline-block; vertical-align:middle; width:55%">![](pic2/CC-licenses.png)</div>
 
 <small>Les différentes licences Creative Commons, sur [creativecommons.fr](https://creativecommons.fr)</small>
 
@@ -306,8 +306,3 @@ dispositif numérique : éditorialisation /
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ## Merci !
-
-
-<div style="display:inline-block; vertical-align:middle; width:50%">
-![Modèle WIkipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2009-08-31-akt-muehla-031.jpg/640px-2009-08-31-akt-muehla-031.jpg)
-</div>
