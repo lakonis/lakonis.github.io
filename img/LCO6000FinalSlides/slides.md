@@ -86,7 +86,6 @@ Autrement dit, il n'y pas d'originalité pure, c'est un mythe, cela semble une �
 ![](pic/dmd-arg-03.png)
 [http://www.ted.com/talks/kirby_ferguson_embrace_the_remix.html](http://www.ted.com/talks/kirby_ferguson_embrace_the_remix.html)
 
-===
 
 Bob Dylan emprunte à Woodie Guthrie
 Steve Jobs introduit l'iphone en 2007 avec cette grande révolution : le multitouch.
@@ -121,14 +120,12 @@ Walter Benjamin, _The Origin of German Tragic Drama_, 1998 (1963), p178.
 
 C'est le principe du montage : l'association de plans cinématographiques n'est pas une simple addition de plan, c'est véritablement l'écriture d'une nouvelle signification.
 
-Il y a dans ce recyclage de fragments un potentiel créatif, que Walter Benjamin appelait en parlant lui aussi d'association de fragments, de "unremitting expectation of a miracle", une attente implacable d'un miracle. C'est dans Origine du drame baroque allemand, dont je n'ai trouvé qu'une version anglaise, mais nous sommes en littérature comparée après tout, comparons.
+Il y a dans ce recyclage de fragments un potentiel créatif, que Walter Benjamin appelait, en parlant lui aussi d'association de fragments, "the unremitting expectation of a miracle", l'attente implacable d'un miracle. C'est dans _Origine du drame baroque allemand_, dont je n'ai trouvé qu'une version anglaise, mais nous sommes en littérature comparée après tout, comparons.
 
 Il s'agit donc d'écriture, d'une écriture libérée et décomplexée vis à vis de la propriété intellectuelle, pour laquelle la réécriture est aussi naturelle, et saine, et essentielle que le partage d'un livre.
 
 
 > "that which lies here in ruins, the highly significant fragment, the remnant, is, in fact, the finest material in Baroque creation. For it is common practice in the literature of the baroque to pile up fragments ceaselessly, whitout any strict idea of a goal... In the unremitting expectation of a miracle"
-
-
 
 
 <!--
@@ -138,28 +135,167 @@ Il s'agit donc d'écriture, d'une écriture libérée et décomplexée vis à vi
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-### 2. de la circulation
+## 2. de la circulation
+
+===
+
+C'est la circulation des idées qui est enjeu. Comprenez bien que le mashup n'est qu'un fer de lance dans cette culture émergente, et que dans la nouvelle chaîne de valeur que cette culture sous-tend, la circulation des idées prévaut sur la protection des idées.
+
+Cette chaine de valeur n'est écrite dans aucune loi.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Slides Internet, protocole, http
+> Code is law.
 
-- Pourquoi Internet, quel rôle il a joué dans tout ça ? Le remix existait avant, le mashup video aussi, mais le web : Basé sur un adressage universel de toute information, il intègre dans ses principes fondateurs l’accès, le partage ou l’appropriation des outils de publication (sans parler des langages). Le web a ainsi permis de généraliser les pratiques de remix à toute sorte de contenu. Tout média, toute information, toute donnée est susceptible sur le web d’être identifiée, extraite, associée, partagée, détournée, et de devenir une ressource et une matière première pour un mashup.
-- Le copier-coller est devenu une action si évidente, si banale qu'on ne se rend pas compte à quel point elle a envahit notre production culturelle au sens large.
-- mais l'infrastructure n'est pas suffisante pour assurer le partage, il faut encore protéger ce principe contre les enclosures, contre l'insasiabilité des capitalistes. Le mouvement Open Source a imaginé ce système de copyleft dès les années 70, en réaction à la fermeture des codes sources. Le mouvement a alors implémenté le copyleft dans une série de licence protégeant le code informatique non pas de son utilisation (rien que le dire est une abberation), mais de la propriétarisation.
+Lawrence Lessig, _Code is Law. On Liberty in Cyberspace_, Harvard Magazine, 01-01-2000.
+
+===
+
+Elle est par contre écrite dans le code. Or comme le disait Lawrence Lessig :
+
+> Code is law.
+
+Cette énoncé est performatif, et semble avoir valeur de Constitution, ou de Déclaration, pour une nouvelle ère du savoir. Ca n'est pas un hasard s'il est publié le 1er janvier de l'an 2000. Code is law annonce les règles qui vont régir le 21eme siècle.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### TCP
+
+Transmission Control Protocol
+
+![Transfert de données TCP IP](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tcp_talk.svg/640px-Tcp_talk.svg.png)
+
+===
+
+Ces règles sont notamment celles de deux protocoles de communication qui forme le web tel qu'on le connait.
+
+D'une part, la couche de communication entre machine : le TCP/IP, ou le Transmission Control Protocol
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### HTTP
+
+Hypertext Transfer Protocol
+
+![HTTP](http://study-ccna.com/wp-content/images/http_process_explained.jpg)
+
+===
+
+Et le HTTP : ou Hypertext Transfer Protocol qui assure cette fois-ci la couche de communication entre un  navigateur et un serveur HTTP dont le rôle est de servir des ressources web.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](http://what-when-how.com/wp-content/uploads/2011/08/tmp3178_thumb.jpg)
+
+===
+
+Ces deux couches sont imbriquées l'une dans l'autre, et elles-mêmes sont imrbiquées dans d'autres couches de plus bas niveaux.
+
+Qu'est ce qui a changé avec ce réseau universel de machines qu'est Internet et ce réseau universel de documents qu'est le web ?
+
+Car le remix, ou le mashup existaient bien évidemment avant le web et Internet. Les pratiques de recyclage ou de réécriture également.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Principes
+
+* adressage universel
+* accessibilité des ressources
+* interopérabilité
+* décentralisation
+* ouverture des codes, des protocoles,
+
+===
+
+Ce qui a changé, c'est que ces protocoles ont intégré dans leurs principes fondateurs un adressage universel de toute information. Tout média, toute information, toute donnée est susceptible sur le web d'être identifiée, extraite, copiée, associée, partagée, détournée, et devenir finalement une ressource et une matière première pour un nouveau mashup.
+
+par ailleurs, autre principe fondateur de ces protocoles, c'est l'accès ouvert, le partage et l'appropriation, d'une part des contenus, mais aussi des outils de publications et de navigation, ainsi que de leurs langages informatiques. Ceci est très important.
+
+Il faut se rappeler que Gutemberg a été dépossédé de son invention par son financeur Johann Fust, qui s'est chargé de la faire fructifier. L'histoire retient malgré tout la paternité de Gutemberg.
+
+Et il en est de même pour les inventeurs du web (Tim berners-lee et Roger Caillau) qui ont tout de suite compris l'intérêt de laisser leur invention ouverte et appropriable par tous.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/50747978@N04/4777684951" title="Lyon"><img src="https://c8.staticflickr.com/5/4082/4777684951_7a08cf55e6_b.jpg" width="50%" alt="Lyon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+===
+
+Le web a ainsi permis de généraliser les pratiques de remix à toute sorte de contenus.
+
+Le copier-coller est devenu une action si évidente, si banale qu'on ne se rend pas compte à quel point elle a envahit notre production culturelle au sens large.
+
+C'est un action en apparence anodine mais qui a le mérite de favoriser la circulation des connaissances, d'une ressource publique à un carnet personnel, d'une communauté à une autre, d'un format propriétaire à un format ouvert et partageable. Le Copier-coller hacke, sélectionne, assemble, réécrit, et ce, sans priver autrui de la ressource originale.
+
+Mais l'infrastructure n'est pas suffisante pour assurer le partage, il faut encore protéger ce principe contre les enclosures, cad une appropriation exclusive des biens et ressources : principe fondateur du capitalisme.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Open Source
+
+<!-- ![](https://upload.wikimedia.org/wikipedia/commons/2/26/Carte_conceptuelle_du_logiciel_libre.svg) -->
+
+<a title="Par René Mérou [h(at)es.gnu.org] and this list of authors related to the icons in http://es.gnu.org/~reneme/fsmap/fsmap-contents.svg : Rubén Rodríguez Pérez, Sun Microsystems, Hitflip team, Ricardo Fernandez Fuentes, David Vignoni, User: Aurelio A. Heckert, (Larry Ewing, Simon Budig and Anja Gerwinski), Agnieszka &quot;pixelgirl&quot; Czajkowska, Frédéric Bellaiche, Sven (Wikipedia), Everaldo Coelho, Ruud Kuin, Nicolas P. Rougier, The Oxygen Team, The GIMP art/developer team, David Šebík, Gryn Frøiland and Håvard Frøiland, Scribus team, Yug, Tango-artists, GNUX Art, &#039;Cathbard Druid&#039;, Joshua &quot;Jag&quot; Ginsberg and the Apache Software Fundation. For this and the Gnome theme extras follow that link for more details. (http://es.gnu.org/~reneme/fsmap/fr/fsmap-fr-w.svg) [GFDL (http://www.gnu.org/copyleft/fdl.html) ou CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACarte_conceptuelle_du_logiciel_libre.svg"><img width="70%" alt="Carte conceptuelle du logiciel libre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carte_conceptuelle_du_logiciel_libre.svg/1024px-Carte_conceptuelle_du_logiciel_libre.svg.png"/></a> <small>Carte conceptuelle du logiciel libre, par René Mérou [sur Wikipédia](https://fr.wikipedia.org/wiki/Logiciel_libre)</small>
+
+===
+
+A partir des années 60, alors que les chercheurs et ingénieurs en informatique partagent ouvertement leurs codes et connaissances pour progresser ensemble, AT&T invente la propriété du code, cad le code et le logiciel propriétaire, et impose à ses ingénieurs de ne plus partager leur code.
+
+En réaction à cet enclosure des connaissances et à la fermeture des codes sources, le mouvement Open Source imagine dès les années 70 ce système de copyleft et l'implémente dans une série de licence protégeant le code informatique non pas de son utilisation (rien que le dire est une abbération), mais de la propriétarisation.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Creative Commons
+<!-- ![](pic/cc-icons-png/cc.png) -->
+<!-- ![](pic/cc-icons-png/zero.png) -->
+
+<div style="display:inline-block; vertical-align:middle; width:55%">![](pic/CC-licenses.png)</div>
+
+<small>Les différentes licences Creative Commons, sur [creativecommons.fr](https://creativecommons.fr)</small>
+
+
+===
+
 Ce fut l'idée 30 ans plus tard des creatives commons qui ont implémenté le principe du copyleft pour les contenus culturels. Cela permet à tout auteur, créateur, amateur, recycleur, de déclarer une fois pour toute ses contenus comme partageable et réutilisable.
 
-- nous avons donc un framework technique vecteur de partage, un framework juridique vecteur de partage, j'aimerais ajouter également l'idée de dispositifs, d'interface, de services, qui pré-disposent ses utilisateurs à la réécriture.
+Nous avons donc un framework technique vecteur de partage, un framework juridique vecteur de partage, auxquels il faut maintenant veiller à associer des dispositifs numériques, des interfaces, des services, vecteurs d'une part de partage, mais aussi créant les conditions de possibilité de la réécriture, c'est-à-dire aussi les conditions de possibilité de l'appropriation.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ### 3. de l'appropriation
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Quelles sont les actions de cette réécriture, peut on les décomposer ? Qu'est ce que s'approprier
+===
+
+Il ne reste que trop peu de temps pour développer cette troisième idée d'appropriation.
+
+Je voudrais simplement tenter de tirer cette idée de réécriture vers les humanités et de la considérer du point du chercheur.
+
+Il y a plusieurs façons de s'approprier un texte ou une idée : la collecte, l'annotation, la réécriture.
+
+Ce sont des pratiques quotidienne du web, que ce soit les marques-pages, les tweets ou gazouillis, le tagging, les hyperliens, les re-publications. A vrai dire, ces pratiques ressemblent à s'y méprendre à celles des chercheurs lorsqu'ils procèdent :
+
+* au classement
+* à l'indexation,
+* à la lecture savante
+* ou encore à l'interprétation.
+
+Car réécrire n'est rien moins qu'interprêter. Réécrire n'est pas juste disséminer, c'est introduire une différence. La dispersion des idées circulantes favorisent leur altération, comme s'altèrent les gènes lors de la reproduction. L'altération ou la mutation des gènes est la condition même de la vie, et c'est la condition même des idées. Ainsi l'appropriation n'est pas une simple **assimilation**, c'est la production d'une **bifurcation**, porteuse de nouveauté, de richesse et de diversité.
+
+Vous retrouvez là des fragments d'idées bien connus, _la répétition_ de Deleuze, _la dissémination_ de Derrida ; Bernard Stiegler, lui,  attribue à cette activité herméneutique le pouvoir de lutter contre l'entropie de l'information. Je ne développe pas.
+
+De même que l'infrastructure technique et l'infrastructure
+
+En guise de conclusion et pour passer la parole à Servanne, j'espère avoir dressé le paysage intellectuel et les paradigmes qui le dessinent. Un concept encore émergent tente de décrire ce paysage, c'est l'éditorialisation, cette idée d'écriture, d'édition et de publication continues et ouvertes. Si vous me demandez ce qu'est l'éditorialisation, je pourrais répondre que c'est tout ce dont j'ai parlé avant.
+
+C'est dans ce paysage qu'un collectif d'auteurs, d'artistes, de performers, ont pu s'approprier un fragment, un presque rien, interprété, réinterprété, recyclé, réécrit, etc.
+
+dispositif numérique : éditorialisation /
+
+
+
+
+
+<!-- Quelles sont les actions de cette réécriture, peut on les décomposer ? Qu'est ce que s'approprier
 
 * Collecter associer à une démarche de classement, d'indexation
 * Annoter qui n'est rien moins que critiquer
-* réécrire qui n'est rien moins qu'interprêter
+* réécrire qui n'est rien moins qu'interprêter -->
 
 
 
