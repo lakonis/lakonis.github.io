@@ -1,11 +1,14 @@
 ## Apologie de la dispersion
 &nbsp;
 
-<small>Nicolas Sauret  
---  
-« Zones de dispersion : errance et identité »  
+Nicolas Sauret  
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+<small>« Zones de dispersion : errance et identité »  
 colloque étudiant du département de littératures et de langues du monde  
 14-16 décembre 2016</small>
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ### 1. de l'écriture
@@ -13,8 +16,6 @@ colloque étudiant du département de littératures et de langues du monde
 ### 2. de la circulation
 ---
 ### 3. de l'appropriation
----
-### 4. de la diversité
 
 ===
 
@@ -28,7 +29,9 @@ Ces conditions culturelles s'inscrivent dans un contexte technique favorable à 
 ## 1. de l'écriture
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](http://revistapaaxsound.com/wp-content/uploads/2014/07/key_art_rip_a_remix_manifesto.jpg)
+<div style="display:inline-block; vertical-align:middle;width:80%;">
+  ![](http://revistapaaxsound.com/wp-content/uploads/2014/07/key_art_rip_a_remix_manifesto.jpg)
+</div>
 
 [http://www.onf.ca/film/rip_remix_manifesto](http://www.onf.ca/film/rip_remix_manifesto) (from 3:23)
 
@@ -40,7 +43,10 @@ Cas d'étude des Creative Commons : [https://wiki.creativecommons.org/wiki/Case_
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![page ONF](pic2/onfRipRemix.png)
+<div style="display:inline-block; vertical-align:middle;width:80%;">
+  ![page ONF](pic2/onfRipRemix.png)
+</div>
+<small>capture: [http://www.onf.ca/film/rip_remix_manifesto](http://www.onf.ca/film/rip_remix_manifesto)</small>
 
 ===
 
@@ -55,23 +61,25 @@ Cas d'étude des Creative Commons : [https://wiki.creativecommons.org/wiki/Case_
 
 > «&nbsp;Un mashup (littéralement _«purée»_) est un mélange d'images et de sons numériques, un peu dans la tradition du sample. C’est un art du recyclage, du remploi d’images empruntées et tournées par d’autres.&nbsp;»
 
+Source : Wikipedia, _Mashup (vidéo)_, 8/12/2016
+
 > «&nbsp;Le mashup relève avant tout d’un état d’esprit. Intimement lié à la nature même d'Internet, à son histoire, ses usages, c’est un pilier du Web participatif.&nbsp;»
 
 
-Source : Wikipedia, _Mashup (vidéo)_, 8/12/2016
 ===
 
 Wikipedia, définit le mashup comme un mélange, un recyclage, un remploi. Et sans surprise, indique qu'effectivement, la pratique du mashup est "intimement lié à la nature même d'Internet", on y reviendra, et introduit ici la notion de participation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-> «&nbsp;Le mashup implique la réutilisation et le remix d’œuvre d’arts, de contenus, et/ou de datas à des fins qui n’étaient pas initialement prévues ou même imaginées par les créateurs de ces œuvres.&nbsp;»
-
-> «&nbsp;Des éléments de réutilisation ont toujours été présents dans la création, l'emprunt pouvant être formulé en terme de traduction ou d'influence.&nbsp;»
-
-> «&nbsp;Les travaux artistiques et académiques s'appuient toujours sur le travail des autres&nbsp;»
+<blockquote style="font-size:0.85em;">«&nbsp;Le mashup implique la réutilisation et le remix d’œuvre d’arts, de contenus, et/ou de datas à des fins qui n’étaient pas initialement prévues ou même imaginées par les créateurs de ces œuvres.&nbsp;»</blockquote>
 
 Brian Lamb, _Dr. Mashup; or, Why Educators Should Stop Worrying And Love The Remix_, 2007
+
+<blockquote style="font-size:0.85em;">«&nbsp;Des éléments de réutilisation ont toujours été présents dans la création, l'emprunt pouvant être formulé en terme de traduction ou d'influence.&nbsp;»</blockquote>
+
+<blockquote style="font-size:0.85em;">«&nbsp;Les travaux artistiques et académiques s'appuient toujours sur le travail des autres&nbsp;»</blockquote>
+
 
 ===
 
@@ -108,13 +116,13 @@ Quel est alors le principe créatif d'une telle création ? en quoi consiste l'a
 
 ## (ré)écrire
 
-1 + 1 = 3
+### 1 + 1 = 3
 
-> "that which lies here in ruins, the highly significant fragment, the remnant, is, in fact, the finest material in Baroque creation. For it is common practice in the literature of the baroque to pile up fragments ceaselessly, whitout any strict idea of a goal... In the unremitting expectation of a miracle"
+&nbsp;
+
+<blockquote style="font-size:0.85em;">"that which lies here in ruins, the highly significant fragment, the remnant, is, in fact, the finest material in Baroque creation. For it is common practice in the literature of the baroque to pile up fragments ceaselessly, whitout any strict idea of a goal... In the unremitting expectation of a miracle"</blockquote>
 
 Walter Benjamin, _The Origin of German Tragic Drama_, 1998 (1963), p178.
-
-
 
 ===
 
@@ -139,7 +147,7 @@ Il s'agit donc d'écriture, d'une écriture libérée et décomplexée vis à vi
 
 ===
 
-C'est la circulation des idées qui est enjeu. Comprenez bien que le mashup n'est qu'un fer de lance dans cette culture émergente, et que dans la nouvelle chaîne de valeur que cette culture sous-tend, la circulation des idées prévaut sur la protection des idées.
+C'est la circulation des idées qui est en jeu. Comprenez bien que le mashup n'est qu'un fer de lance dans cette culture émergente, et que dans la nouvelle chaîne de valeur que cette culture sous-tend, la circulation des idées prévaut sur la protection des idées.
 
 Cette chaine de valeur n'est écrite dans aucune loi.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -188,14 +196,14 @@ Et le HTTP : ou Hypertext Transfer Protocol qui assure cette fois-ci la couche d
 
 ===
 
-Ces deux couches sont imbriquées l'une dans l'autre, et elles-mêmes sont imrbiquées dans d'autres couches de plus bas niveaux.
+Ces deux couches sont imbriquées l'une dans l'autre, et elles-mêmes sont imbriquées dans d'autres couches de plus bas niveaux.
 
 Qu'est ce qui a changé avec ce réseau universel de machines qu'est Internet et ce réseau universel de documents qu'est le web ?
 
 Car le remix, ou le mashup existaient bien évidemment avant le web et Internet. Les pratiques de recyclage ou de réécriture également.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-### Principes
+### http://inter.net/principes
 
 * adressage universel
 * accessibilité des ressources
@@ -221,11 +229,11 @@ Et il en est de même pour les inventeurs du web (Tim berners-lee et Roger Caill
 
 Le web a ainsi permis de généraliser les pratiques de remix à toute sorte de contenus.
 
-Le copier-coller est devenu une action si évidente, si banale qu'on ne se rend pas compte à quel point elle a envahit notre production culturelle au sens large.
+Le copier-coller est devenu une action si évidente, si banale qu'on ne se rend plus compte à quel point elle a envahit notre production culturelle au sens large.
 
-C'est un action en apparence anodine mais qui a le mérite de favoriser la circulation des connaissances, d'une ressource publique à un carnet personnel, d'une communauté à une autre, d'un format propriétaire à un format ouvert et partageable. Le Copier-coller hacke, sélectionne, assemble, réécrit, et ce, sans priver autrui de la ressource originale.
+C'est une action en apparence anodine mais qui a le mérite de favoriser la circulation des connaissances, d'une ressource publique à un carnet personnel, d'une communauté à une autre, d'un format propriétaire à un format ouvert et partageable. Le Copier-coller hacke, sélectionne, assemble, réécrit. Et ce, sans priver autrui de la ressource originale.
 
-Mais l'infrastructure n'est pas suffisante pour assurer le partage, il faut encore protéger ce principe contre les enclosures, cad une appropriation exclusive des biens et ressources : principe fondateur du capitalisme.
+Mais l'infrastructure n'est pas suffisante pour assurer le partage, il faut encore protéger ce principe contre les enclosures, cad une appropriation exclusive des biens et ressources : autrement dit contre les dynamiques capitalistes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Open Source
@@ -236,7 +244,7 @@ Mais l'infrastructure n'est pas suffisante pour assurer le partage, il faut enco
 
 ===
 
-A partir des années 60, alors que les chercheurs et ingénieurs en informatique partagent ouvertement leurs codes et connaissances pour progresser ensemble, AT&T invente la propriété du code, cad le code et le logiciel propriétaire, et impose à ses ingénieurs de ne plus partager leur code.
+A partir des années 60, alors que les chercheurs et ingénieurs en informatique partagent ouvertement leurs codes et connaissances pour progresser ensemble, AT&T, alors un acteur majeur de l'innovation informatique, invente la propriété du code, cad le code et le logiciel propriétaire, et impose à ses ingénieurs de ne plus partager leur code.
 
 En réaction à cet enclosure des connaissances et à la fermeture des codes sources, le mouvement Open Source imagine dès les années 70 ce système de copyleft et l'implémente dans une série de licence protégeant le code informatique non pas de son utilisation (rien que le dire est une abbération), mais de la propriétarisation.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -251,58 +259,61 @@ En réaction à cet enclosure des connaissances et à la fermeture des codes sou
 
 ===
 
-Ce fut l'idée 30 ans plus tard des creatives commons qui ont implémenté le principe du copyleft pour les contenus culturels. Cela permet à tout auteur, créateur, amateur, recycleur, de déclarer une fois pour toute ses contenus comme partageable et réutilisable.
+Ce fut l'idée 30 ans plus tard des creatives commons qui ont implémenté le principe du copyleft pour "les oeuvres de l'esprit", entendez : _contenus culturels_. Cela permet à tout auteur, créateur, amateur, recycleur, de déclarer une fois pour toute ses contenus comme partageable et réutilisable.
 
 Nous avons donc un framework technique vecteur de partage, un framework juridique vecteur de partage, auxquels il faut maintenant veiller à associer des dispositifs numériques, des interfaces, des services, vecteurs d'une part de partage, mais aussi créant les conditions de possibilité de la réécriture, c'est-à-dire aussi les conditions de possibilité de l'appropriation.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ### 3. de l'appropriation
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ===
 
 Il ne reste que trop peu de temps pour développer cette troisième idée d'appropriation.
 
-Je voudrais simplement tenter de tirer cette idée de réécriture vers les humanités et de la considérer du point du chercheur.
+Je voudrais simplement tenter de tirer cette idée de réécriture vers les humanités et de la considérer du point de vue du chercheur.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Collecter, annoter, réécrire
+===
 
 Il y a plusieurs façons de s'approprier un texte ou une idée : la collecte, l'annotation, la réécriture.
 
-Ce sont des pratiques quotidienne du web, que ce soit les marques-pages, les tweets ou gazouillis, le tagging, les hyperliens, les re-publications. A vrai dire, ces pratiques ressemblent à s'y méprendre à celles des chercheurs lorsqu'ils procèdent :
+Ce sont des pratiques quotidienne du web, que ce soit les marques-pages, les tweets (gazouillis), le tagging, les hyperliens, les re-publications (Pinterest, Tumblr, etc.). A vrai dire, ces pratiques ressemblent à s'y méprendre à celles des chercheurs lorsqu'ils procèdent :
 
 * au classement
 * à l'indexation,
 * à la lecture savante
 * ou encore à l'interprétation.
-
-Car réécrire n'est rien moins qu'interprêter. Réécrire n'est pas juste disséminer, c'est introduire une différence. La dispersion des idées circulantes favorisent leur altération, comme s'altèrent les gènes lors de la reproduction. L'altération ou la mutation des gènes est la condition même de la vie, et c'est la condition même des idées. Ainsi l'appropriation n'est pas une simple **assimilation**, c'est la production d'une **bifurcation**, porteuse de nouveauté, de richesse et de diversité.
-
-Vous retrouvez là des fragments d'idées bien connus, _la répétition_ de Deleuze, _la dissémination_ de Derrida ; Bernard Stiegler, lui,  attribue à cette activité herméneutique le pouvoir de lutter contre l'entropie de l'information. Je ne développe pas.
-
-De même que l'infrastructure technique et l'infrastructure
-
-En guise de conclusion et pour passer la parole à Servanne, j'espère avoir dressé le paysage intellectuel et les paradigmes qui le dessinent. Un concept encore émergent tente de décrire ce paysage, c'est l'éditorialisation, cette idée d'écriture, d'édition et de publication continues et ouvertes. Si vous me demandez ce qu'est l'éditorialisation, je pourrais répondre que c'est tout ce dont j'ai parlé avant.
-
-C'est dans ce paysage qu'un collectif d'auteurs, d'artistes, de performers, ont pu s'approprier un fragment, un presque rien, interprété, réinterprété, recyclé, réécrit, etc.
-
-dispositif numérique : éditorialisation /
-
-
-
-
-
-<!-- Quelles sont les actions de cette réécriture, peut on les décomposer ? Qu'est ce que s'approprier
-
-* Collecter associer à une démarche de classement, d'indexation
-* Annoter qui n'est rien moins que critiquer
-* réécrire qui n'est rien moins qu'interprêter -->
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-### 4. de la diversité
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+### Interpréter
+===
+
+Car réécrire n'est rien moins qu'interprêter. Réécrire n'est pas juste disséminer, c'est introduire une différence. La dispersion des idées circulantes favorisent leur altération, comme s'altèrent les gènes à chaque génération. L'altération ou la mutation des gènes est la condition même de la vie, et c'est la condition même des idées. Ainsi l'appropriation n'est pas une simple **assimilation**, c'est la production d'une **bifurcation**, porteuse de nouveauté, de richesse et de diversité.
+
+Vous retrouvez là des fragments d'idées bien connus, _la répétition_ de Deleuze, _la dissémination_ de Derrida ; Bernard Stiegler, lui,  attribue à cette activité herméneutique le pouvoir de lutter contre l'entropie de l'information. Je ne développe pas.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### &Eacute;ditorialiser
+===
+
+Nous essayons de penser le changement de paradigme intellectuel en terme d'éditorialisation. C'est un concept encore émergent qui porte l'idée d'écriture, d'édition et de publication continues et ouvertes. Si vous me demandez ce qu'est l'éditorialisation, une réponse possible pourrait être cette intervention.
+
+La notion permet de penser le paysage culturel et intellectuel en devenir, dans lequel s'est inscrit le collectif d'auteurs, d'artistes, de performers dont Servanne va maintenant nous parler.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-## Merci !
+
+### à suivre !
+
+**Servanne Monjour**  
+Le collectif « GI », ou l’« *Instin* » de survie de la communauté littéraire à l’ère du numérique
+
+&nbsp;
+
+Merci !
+
+<small>@nicolasauret - [nicolassauret.net](http://nicolassauret.net)</small>
+
+
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
