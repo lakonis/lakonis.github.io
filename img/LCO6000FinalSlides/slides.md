@@ -4,8 +4,8 @@
 Nicolas Sauret  
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-<small>« Zones de dispersion : errance et identité »  
 colloque étudiant du département de littératures et de langues du monde  
+<small>« Zones de dispersion : errance et identité »  
 14-16 décembre 2016</small>
 
 
