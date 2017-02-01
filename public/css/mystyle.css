@@ -32,8 +32,20 @@ ul > li {
   font-size: smaller;
 }
 
+ol > li {
+  list-style-type: decimal;
+  font-size: smaller;
+}
+
 td {
   font-size: smaller;
+}
+
+.footnotes {
+    font-size: 1rem;
+    margin-top: 2rem;
+    border-top: 1px solid #aaa;
+    padding-top: 2rem;
 }
 
 .lead {
