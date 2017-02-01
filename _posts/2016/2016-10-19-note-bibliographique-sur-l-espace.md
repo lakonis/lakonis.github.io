@@ -1,7 +1,8 @@
 ---
-layout: "post"
-title: "Note bibliographique sur l'espace"
+layout: postx
+title: Note bibliographique sur l'espace
 date: "2016-10-19 14:08"
+category: carnet
 ---
 
 
