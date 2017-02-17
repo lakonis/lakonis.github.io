@@ -16,7 +16,10 @@ title: Recherches
 
 <i class="fa fa-arrow-right"></i> **Coordinateur scientifique du [CRIHN](http://www.crihn.org/), le Centre de recherche interuniversitaire sur les humanités numériques**, 2016-
 
-<i class="fa fa-arrow-right"></i> **Organisateur de [la 3<sup>ème</sup> journée doctorale](http://www.passes-present.eu/fr/journee-3-comment-chercher-aujourdhui-le-passe-travailler-les-archives-dans-un-contexte-numerique) du Labex _Les passés dans le présent_**, 2016
+<i class="fa fa-arrow-right"></i> **Étude sur _Général Instin_ : dispositif et éditorialisation d'une littérature brouhaha**, 2016-  
+
+- en collaboration avec Servanne Monjour
+- [carnet de recherche]({{ site.github.url }}/behindinstin/),
 
 <i class="fa fa-arrow-right"></i> **Étude du corpus Anarchy : expérience transmédia d'écriture collaborative**, 2015-2016  
 
@@ -24,6 +27,8 @@ title: Recherches
 - [carnet de recherche]({{ site.github.url }}/behindanarchy/),
 
 ## Activités passées
+
+<i class="fa fa-arrow-right"></i> **Co-organisateur de [la 3<sup>ème</sup> journée doctorale](http://www.passes-present.eu/fr/journee-3-comment-chercher-aujourdhui-le-passe-travailler-les-archives-dans-un-contexte-numerique) du Labex _Les passés dans le présent_**, 2016
 
 <i class="fa fa-arrow-right"></i> **Organisation de l’atelier _Pratiques et enjeux de l'éditorialisation_ au Labex Les passés dans le présent**, 2016
 
@@ -67,6 +72,8 @@ title: Recherches
 
 ### 2016
 
+<!-- ajouter colloque étudiant Livia, colloque étudiant Autorité -->
+
 * **What is editorialisation ?**  
 CSDH-SCHN 2016 (Société canadienne des humanités numériques), colloque international dans le cadre de Congress 2016
 * **Auctorialité, autorité et Anarchy**  
@@ -91,6 +98,8 @@ Colloque organisé par OCIM (Université de Bourgogne) et le CERILAC (Universit�
 C-TV Conference 2014, St. Pölten University of Applied Sciences, Austria : _Moving image and multi-device strategies_  
 
 ## Conférences et ateliers
+
+<!-- ajouter présentation à la 3eme journée doctorale -->
 
 ### 2016
 
