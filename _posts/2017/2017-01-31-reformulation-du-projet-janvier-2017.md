@@ -27,5 +27,3 @@ Nous aborderons cette problématique en mobilisant la notion d'éditorialisation
 Nous mobiliserons également la notion d'intermédialité afin de saisir les jeux de relations et d'intersections entre les idées, les supports qui les transportent, et les contextes institutionnels qui les sous-tendent.
 
 ---
-
-[LCO6000-projet]:
