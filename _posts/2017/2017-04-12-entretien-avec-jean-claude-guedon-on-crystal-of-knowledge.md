@@ -27,8 +27,6 @@ Pour J-C. Guédon, cette gestion doit être communautaire, « évidemment ». En
 
 De ce point de vue, il envisage le _fork_ comme « une révolution conceptuelle ».
 
-<!-- Le cristal et la plateforme-territoire, repère cartésien dans lequel émergent ou cristallisent des objets temporaires. -->
-
 ## Liquide
 
 Comme nous l'avions identifié dans le précédent entretien, les technologies de gestion de version (Git, Mercurial, Github, etc.) suffiraient aujourd'hui pour reconstruire un système de référence fiable des différents états du texte. J-C. Guédon voit dans les pratiques de partage de code un modèle à suivre pour les écrits scientifiques. En particulier en ce qui concerne le partage de responsabilité, c'est-à-dire dans une certaine mesure pour le texte, un partage de son auctorialité (la _fonction auteur_ de Foucault).
