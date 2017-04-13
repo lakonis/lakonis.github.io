@@ -2,6 +2,7 @@
 layout: post
 title: 'Entretien avec Jean-Claude Guédon : on «crystal of knowledge»'
 date: '2017-04-12 23:47'
+category: carnet
 ---
 
 Repenser la revue scientifique nécessite en fait de penser sa dissolution. L'entretien avec Jean-Claude Guédon dans le cadre du projet de refonte de Sens Public a été l'occasion de filer la métaphore du cristal. Précipitation, dissolution, cristallisation, ces différents passages d'un état solide à un état liquide reflète bien les états du texte et les processus de stabilisation et déstabilisation du texte à l’œuvre.
