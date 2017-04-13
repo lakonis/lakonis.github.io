@@ -1,5 +1,5 @@
 ---
-layout: postx
+layout: post
 title: Reformulation du projet en janvier 2017
 date: '2017-01-31 15:48'
 category: carnet

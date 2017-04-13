@@ -9,8 +9,7 @@ Repenser la revue scientifique nécessite en fait de penser sa dissolution. L'en
 
 Outre son engagement pour l'Open Access et l'évolution de la communication scientifique, nous avons fait appel à Jean-Claude pour cet article intitulé _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_[^articleCrystal].
 
-[^articleCrystal]: Stern, Guédon, et Jensen, _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_. Nordic Perspectives on Open Science
- 2015 [http://dx.doi.org/10.7557/11.3619](http://dx.doi.org/10.7557/11.3619)
+[^articleCrystal]: Stern, Guédon, et Jensen, _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_. Nordic Perspectives on Open Science, 2015 [http://dx.doi.org/10.7557/11.3619](http://dx.doi.org/10.7557/11.3619)
 
 Pour J-C. Guédon, la revue et l'article ne sont plus les bons objets et les bons formats pour nourrir la conversation scientifique. Il faut selon lui remettre au centre la communication et non le texte. Le texte doit rester prétexte à la discussion scientifique.
 
@@ -54,10 +53,11 @@ Pour J-C. Guédon, il serait intéressant de reconstituer des territoires de dis
 
 À l'origine des premiers périodiques, le texte imprimé a une fonction d'annexe aux séminaires. J-C. Guédon cite deux exemples emblématiques :
 
-1. _le Journal des savants_[^referencerevue1] : ce périodique littéraire et scientifique est initialement pensé en 1665 comme un pur véhicule de connaissances, orienté par un travail de veille et de signalement des idées, et par la circulation de textes. L'évaluation y est alors absente.
-2. _Philosophical transaction_[^referencerevue2] : créé trois mois plus tard en réaction au périodique français, son projet est tout autre avec une tendance monopolistique sur la science, perçue comme moyen de pouvoir. Il s'agissait de récolter les connaissances, toutes les connaissances et d'en contrôler la sélection et la redistribution.
+1. _le Journal des savants_ : ce périodique littéraire et scientifique[^note1] est initialement pensé en 1665 comme un pur véhicule de connaissances, orienté par un travail de veille et de signalement des idées, et par la circulation de textes. L'évaluation y est alors absente.
+2. _Philosophical transaction_ : créé trois mois plus tard[^note2] en réaction au périodique français, son projet est tout autre avec une tendance monopolistique sur la science, perçue comme moyen de pouvoir. Il s'agissait de récolter les connaissances, toutes les connaissances et d'en contrôler la sélection et la redistribution.
 
-[^referencerevue1] : voir [https://fr.wikipedia.org/wiki/Journal_des_savants](https://fr.wikipedia.org/wiki/Journal_des_savants)
-[^referencerevue2] : voir [https://fr.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society](https://fr.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society)
+[^note1]: voir [https://fr.wikipedia.org/wiki/Journal_des_savants](https://fr.wikipedia.org/wiki/Journal_des_savants)
+
+[^note2]: voir [https://fr.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society](https://fr.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society)
 
 Entre ces deux visions de la science, les anglos-saxons misent sur « la bonne connaissance » (celle qui mérite d'être redistribuée) plutôt que sur le « bon goût », dont les français ont le monopole. Mais les enjeux sont en fait politiques, opposant une communication savante dont l'objectif est avant tout de faire avancer la connaissance, _versus_ la captation des connaissance et l'établissement de lieux de pouvoir.
