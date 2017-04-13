@@ -11,7 +11,7 @@ Outre son engagement pour l'Open Access et l'évolution de la communication scie
 [^articleCrystal]: Stern, Guédon, et Jensen, _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_. Nordic Perspectives on Open Science
  2015 [http://dx.doi.org/10.7557/11.3619](http://dx.doi.org/10.7557/11.3619)
 
-Pour JC Guédon, la revue et l'article ne sont plus les bons objets et les bons formats pour nourrir la conversation scientifique. Il faut selon lui remettre au centre la communication et non le texte. Le texte doit rester prétexte à la discussion scientifique.
+Pour J-C. Guédon, la revue et l'article ne sont plus les bons objets et les bons formats pour nourrir la conversation scientifique. Il faut selon lui remettre au centre la communication et non le texte. Le texte doit rester prétexte à la discussion scientifique.
 
 Dans la continuité de ce constat, l'intérêt de la revue réside dans la relative assise qu'elle offre à la communauté, en tant que médium stable, à condition de se penser comme un dérivé de cette communauté, à la géométrie variable et susceptible de se dissoudre. Dans le contexte du web dont un modèle dominant est la plateforme, il faut (re)trouver les modalités de l'instabilité.
 
@@ -23,7 +23,7 @@ Le cristal de connaissance consiste en l'agrégation temporaire d'un certain nom
 
 Cette instabilité contrôlée (ou stabilité relative) soulève une question de positionnement pour la revue :  la formation et dissolution de ces cristaux relèvent-elle d'une fonction éditoriale, gérée à la fois par une équipe dédiée et pourquoi pas avec l'aide d'algorithmes d'agrégation, de curation et de mise en avant, ou bien, d'une fonction communautaire, avec des mécanismes de décision collective, de consensus ?
 
-Pour Guédon, cette gestion doit être communautaire, « évidemment ». En reprenant ici le vocable du codage informatique, il imagine même la possibilité de _« forker »_ les cristaux, c'est-à-dire de permettre à différentes conceptions de s'exprimer en s'emparant d'une problématique et de la porter vers d'autres conclusions.
+Pour J-C. Guédon, cette gestion doit être communautaire, « évidemment ». En reprenant ici le vocable du codage informatique, il imagine même la possibilité de _« forker »_ les cristaux, c'est-à-dire de permettre à différentes conceptions de s'exprimer en s'emparant d'une problématique et de la porter vers d'autres conclusions.
 
 De ce point de vue, il envisage le _fork_ comme « une révolution conceptuelle ».
 
@@ -31,11 +31,11 @@ De ce point de vue, il envisage le _fork_ comme « une révolution conceptuelle 
 
 ## Liquide
 
-Comme nous l'avions identifié dans le précédent entretien, les technologies de gestion de version (Git, Mercurial, Github, etc.) suffiraient aujourd'hui pour reconstruire un système de référence fiable des différents états du texte. JC Guédon voit dans les pratiques de partage de code un modèle à suivre pour les écrits scientifiques. En particulier en ce qui concerne le partage de responsabilité, c'est-à-dire dans une certaine mesure pour le texte, un partage de son auctorialité (la _fonction auteur_ de Foucault).
+Comme nous l'avions identifié dans le précédent entretien, les technologies de gestion de version (Git, Mercurial, Github, etc.) suffiraient aujourd'hui pour reconstruire un système de référence fiable des différents états du texte. J-C. Guédon voit dans les pratiques de partage de code un modèle à suivre pour les écrits scientifiques. En particulier en ce qui concerne le partage de responsabilité, c'est-à-dire dans une certaine mesure pour le texte, un partage de son auctorialité (la _fonction auteur_ de Foucault).
 
 Ainsi l'attachement aux différents statuts du texte serait transposable dans un système de versionning inspiré des pratiques et techniques de versionning de code. Le verrou, bien entendu, n'est pas technique mais institutionnel. Malgré les initiatives pour « ouvrir » véritablement les textes scientifiques, c'est-à-dire pour traiter les textes publiés comme des work-in-progress, régulièrement mis-à-jour au fil des contributions, l'institution scientifique reste incapable actuellement de reconnaître la nature liquide du texte, et de prendre en considération dans ses évaluations ses états successifs.
 
-Pour Guédon, face à cette liquéfaction du texte, il faut gérer des moments de cristallisation et de stabilisation. Il s'agit de sortir d'une conception de l'article comme monument éternel, et de revenir à l'idée de l'académie du 17ème, avec ses salons et ses procédés de validation collective. C'est ce que met en place [The Faculty of 1000](http://f1000.com/), notamment sur la plateforme de publication ouverte [F1000Research](https://f1000research.com/) dont les articles sont filtrés (mais non évalués) et publiés pour une évaluation ouverte par système de vote et d'annotation. L'article y acquiert progressivement de la valeur au fil des contributions qui, ensemble, ont fonction de validation.
+Pour J-C. Guédon, face à cette liquéfaction du texte, il faut gérer des moments de cristallisation et de stabilisation. Il s'agit de sortir d'une conception de l'article comme monument éternel, et de revenir à l'idée de l'académie du 17ème, avec ses salons et ses procédés de validation collective. C'est ce que met en place [The Faculty of 1000](http://f1000.com/), notamment sur la plateforme de publication ouverte [F1000Research](https://f1000research.com/) dont les articles sont filtrés (mais non évalués) et publiés pour une évaluation ouverte par système de vote et d'annotation. L'article y acquiert progressivement de la valeur au fil des contributions qui, ensemble, ont fonction de validation.
 
 ### Animation de communauté(s) : jouer le dissensus
 
@@ -51,7 +51,7 @@ Pour J-C. Guédon, il serait intéressant de reconstituer des territoires de dis
 
 ## Enjeux politiques
 
-À l'origine des premiers périodiques, le texte imprimé a une fonction d'annexe aux séminaires. Guédon cite deux exemples emblématiques :
+À l'origine des premiers périodiques, le texte imprimé a une fonction d'annexe aux séminaires. J-C. Guédon cite deux exemples emblématiques :
 
 1. _le Journal des savants_[^referencerevue1] : ce périodique littéraire et scientifique est initialement pensé en 1665 comme un pur véhicule de connaissances, orienté par un travail de veille et de signalement des idées, et par la circulation de textes. L'évaluation y est alors absente.
 2. _Philosophical transaction_[^referencerevue2] : créé trois mois plus tard en réaction au périodique français, son projet est tout autre avec une tendance monopolistique sur la science, perçue comme moyen de pouvoir. Il s'agissait de récolter les connaissances, toutes les connaissances et d'en contrôler la sélection et la redistribution.
