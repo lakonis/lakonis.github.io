@@ -5,9 +5,9 @@ date: '2017-04-12 23:47'
 category: carnet
 ---
 
-Repenser la revue scientifique nécessite en fait de penser sa dissolution. L'entretien avec Jean-Claude Guédon dans le cadre du projet de refonte de Sens Public a été l'occasion de filer la métaphore du cristal. Précipitation, dissolution, cristallisation, ces différents passages d'un état solide à un état liquide reflète bien les états du texte et les processus de stabilisation et déstabilisation du texte à l’œuvre.
+Repenser la revue scientifique nécessite en fait de penser sa dissolution. L'entretien avec Jean-Claude Guédon dans le cadre du projet de refonte de Sens Public a été l'occasion de filer la métaphore du cristal. Précipitation, dissolution, cristallisation, ces différents passages d'un état solide à un état liquide reflètent bien les états du texte et les processus de stabilisation et déstabilisation du texte à l’œuvre.
 
-Outre son engagement pour l'Open Access et l'évolution de la communication scientifique, nous avons fait appel à Jean-Claude pour cet article intitulé _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_[^articleCrystal].
+Outre son engagement pour l'Open Access et l'évolution de la communication scientifique, nous avons fait appel à J-C. Guédon pour cet article intitulé _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_[^articleCrystal].
 
 [^articleCrystal]: Stern, Guédon, et Jensen, _« Crystals of Knowledge Production. An Intercontinental Conversation about Open Science and the Humanities »_. Nordic Perspectives on Open Science, 2015 [http://dx.doi.org/10.7557/11.3619](http://dx.doi.org/10.7557/11.3619)
 
