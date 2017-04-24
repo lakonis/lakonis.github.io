@@ -77,6 +77,7 @@ a.sidebar-nav-item:focus {
 
 .footer {
   font-size: small;
+  margin-top: 0.7rem;
 }
 
 /* Theme grey */
@@ -92,6 +93,26 @@ a.sidebar-nav-item:focus {
   text-align: center;
 }
 
+.identity {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  padding : 1rem 0rem;
+  /*text-align: right;*/
+  /*font-family: PT serif;*/
+  font-family: "PT Sans Narrow",sans-serif;
+  font-size: 1rem;
+  line-height: 0.5rem;
+}
+
+.identity p {
+  color: grey;
+  /*font-size: 1rem;*/
+}
+
+.identity a {
+  color: white;
+  font-weight: 300;
+}
 
 /*.myaccordion {
   font-family: "PT Sans",Helvetica,Arial,sans-serif;
