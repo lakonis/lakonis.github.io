@@ -90,14 +90,14 @@ _Zones de dispersion : errance et identité_, 2016, colloque étudiant du Dépa
 * **What is editorialisation ?**  
 CSDH-SCHN 2016 (Société canadienne des humanités numériques), colloque international dans le cadre de Congress 2016
 * **Auctorialité, autorité et Anarchy** [(présentation)]({{ site.github. url }}/behindanarchy/2016/05/24/intervention-au-colloque-editorialisation-de-l-auteur.html)  
-Colloque international sous la direction de Bertrand Gervais, Servanne Monjour, Marcello Vitali-Rosati (Uqam, Udem) : _Ecrivains, personnage et profils : l’éditorialisation de l’auteur_  
+Colloque international sous la direction de Bertrand Gervais, Servanne Monjour, Marcello Vitali-Rosati (Uqam, Udem)&nbsp;: _Ecrivains, personnage et profils&nbsp;: l’éditorialisation de l’auteur_  
 * **L’autorité dans Anarchy. Les constructions de l’autorité dans un dispositif de production littéraire collaborative** [(présentation)]({{ site.github. url }}/behindanarchy/2016/03/16/intervention-au-colloque-mediations-informatisees-de-l-autorite.html)  
 colloque organisé par ISCC/CNRS, Celsa/Paris-Sorbonne, UPMC : _Médiations informatisées de l’autorité : nouvelles écritures, nouvelles pratiques de la reconnaissance ?_  
 
 ### 2015
 
 * **Vers un framework pour la circulation des connaissances**  
-Colloque sous la direction de Marcello Vitali-Rosati, Michael E. Sinatra et Benoît Melançon : *Éditorialisation et nouvelles formes de publication*   
+Colloque sous la direction de Marcello Vitali-Rosati, Michael E. Sinatra et Benoît Melançon&nbsp;: *Éditorialisation et nouvelles formes de publication*   
 
 ### 2014
 
