@@ -7,6 +7,14 @@ title: Recherches
 
 ## Activités en cours
 
+<i class="fa fa-arrow-right"></i> **Coordinateur de la refonte de la revue scientifique en ligne Sens Public**
+
+- projet : repenser la revue scientifique à l’ère du numérique
+- design et prototypage de la [chaîne éditoriale](https://github.com/EcrituresNumeriques/chaineEditorialSP) de la revue
+- ateliers de co-conception, « grands entretiens » (voir carnet).
+- financement FRQSC de la CRC sur les écritures numériques
+- [carnet de recherche](http://nicolassauret.net/carnets/) et [prototype](https://github.com/EcrituresNumeriques/sensPublicApp/)
+
 <i class="fa fa-arrow-right"></i> **Organisateur du séminaire Écritures numériques et éditorialisation**, 2011-  
 
 - cycle mensuel en duplex avec l'Université de Montréal  
