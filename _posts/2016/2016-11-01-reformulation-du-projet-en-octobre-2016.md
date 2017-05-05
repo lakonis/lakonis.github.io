@@ -64,13 +64,13 @@ L'intérêt de ces deux corpus réside dans la variété des pratiques et des di
 
 Cette double analyse de corpus et de dispositif procédera d'une approche mixte qualitative, quantitative et dispositive, en mobilisant les outils de textométrie, d'analyse de réseaux et études critiques. Cette triple approche a pu être testée en première année de thèse sur un autre corpus de littérature numérique, issue d'une expérience transmédia d'écriture fictionnelle collaborative, _Anarchy_[^1]. Un des résultat de cette étude a été de tester l'intérêt de la démarche, tout en questionnant la faisabilité d'une généricisation de la méthode pour les humanités numériques en général[^2].
 
-[^1]: voir notamment (Sauret et Mayer, 2016), ainsi que le carnet de recherche http://nicolassauret.net/behindanarchy
-[^2]: voir le billet _Vers une méthode générique_ sur http://nicolassauret.net/behindanarchy/2016/08/26/vers-une-methode-generique.html
+[^1]: voir notamment (Sauret et Mayer, 2016), ainsi que le carnet de recherche [http://nicolassauret.net/behindanarchy](http://nicolassauret.net/behindanarchy)
+[^2]: voir le billet _Vers une méthode générique_ sur [http://nicolassauret.net/behindanarchy/2016/08/26/vers-une-methode-generique.html](http://nicolassauret.net/behindanarchy/2016/08/26/vers-une-methode-generique.html)
 
 
 En parallèle et pour nourrir la réflexion théorique, j'envisage un volet expérimental avec la conception d'un dispositif prototypal d'écriture et d'édition qui s’appuiera sur résultats et les conclusions des travaux d'analyse. Ce volet prend corps au sein de la collaboration entre la CRC sur les écritures numériques[^3] et l'éditeur scientifique Érudit.
 
-[^3]: Chaire de recherche du Canada sur les écritures numériques de l'Université de Montréal (http://ecrituresnumeriques.ca)
+[^3]: Chaire de recherche du Canada sur les écritures numériques de l'Université de Montréal ([http://ecrituresnumeriques.ca](http://ecrituresnumeriques.ca))
 
 ## État de la question
 
