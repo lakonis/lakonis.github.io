@@ -115,3 +115,7 @@ a.sidebar-nav-item:focus {
   font-family: "PT Sans",Helvetica,Arial,sans-serif;
   font-size: 1rem;
 }*/
+
+.post > li .post-date{
+  margin-bottom: 0rem;
+}
