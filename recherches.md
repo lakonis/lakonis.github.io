@@ -27,12 +27,12 @@ title: Recherches
 <i class="fa fa-arrow-right"></i> **Étude sur _Général Instin_ : dispositif et éditorialisation d'une littérature brouhaha**, 2016-  
 
 - en collaboration avec Servanne Monjour
-- [carnet de recherche]({{ site.github.url }}/behindinstin/),
+- [carnet de recherche]({{ site.github.url }}/behindinstin/)
 
 <i class="fa fa-arrow-right"></i> **Étude du corpus Anarchy : expérience transmédia d'écriture collaborative**, 2015-2016  
 
 - en collaboration avec Ariane Mayer
-- [carnet de recherche]({{ site.github.url }}/behindanarchy/),
+- [carnet de recherche]({{ site.github.url }}/behindanarchy/)
 
 ## Activités passées
 
