@@ -3,7 +3,7 @@ layout: page
 title: Recherches
 ---
 
-{[activités en cours]({{ page.url }}#activits-en-cours)} {[activités passées]({{ page.url }}#activits-passes)} {[publications]({{ page.url }}#publications)}  {[conférences scientifiques]({{ page.url }}#confrences-scientifiques)} {[conférences et ateliers]({{ page.url }}#confrences-et-ateliers)}
+{[activités en cours]({{ page.url }}#activits-en-cours)} {[activités passées]({{ page.url }}#activits-passes)} {[publications]({{ page.url }}#publications)}  {[conférences scientifiques]({{ page.url }}#conférences-scientifiques)} {[conférences et ateliers]({{ page.url }}#conférences-et-ateliers)}
 
 ## Activités en cours
 
