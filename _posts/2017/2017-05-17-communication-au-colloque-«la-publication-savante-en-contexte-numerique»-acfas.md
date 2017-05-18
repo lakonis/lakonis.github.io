@@ -19,8 +19,8 @@ Je publie ici les slides de ma communication au colloque [«La publication savan
 Le texte complet sera prochainement publié. Quelques extraits :
 
 Sur le constat :
-
 > Nous observons donc deux tendances liées d'une manière très paradoxale : l'asphyxie de la publication traditionnelle qui semble coincée dans des priorités différentes de sa mission première, **et par ailleurs l'explosion des formes d'écritures**, formes qui ne peuvent encore pleinement rentrer dans la sphère institutionnelle, puisqu'elles ne sont pas légitimées par l'institution.
+
 >
 > On pourrait penser que la première victime de ce système est la conversation scientifique, pourtant c'est bien l'institution qui en pâtit le plus puisque la conversation, elle, se porte bien, mais hors de la sphère institutionnelle : **les lieux et les formes de la controverse** et du consensus échappent de plus en plus à cette institution.
 
@@ -47,4 +47,4 @@ Sur la conversation :
 
 **Archive vidéo**
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/zxPypy5am5w?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/zxPypy5am5w?start=1923" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
