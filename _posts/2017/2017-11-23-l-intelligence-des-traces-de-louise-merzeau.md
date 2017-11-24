@@ -6,7 +6,7 @@ date: '2017-11-23 15:53'
 category: carnet
 ---
 
-_Cet article de Louise Merzeau a été publié initialement dans la Revue [Intellectica](http://intellectica.org/fr/numeros/de-la-trace-la-connaissance-l-ere-du-web). Il est reproduit ici à des fins de recherche dans le cadre du séminaire [«Écritures numériques et éditorialisation»](http://seminaire.sens-public.org/) (voir [l'atelier #2](http://seminaire.sens-public.org/spip.php?article70) proposé par Servanne Monjour et Mattéo Tréléani)._
+_Cet article de Louise Merzeau a été publié initialement dans la Revue [Intellectica](http://intellectica.org/fr/numeros/de-la-trace-la-connaissance-l-ere-du-web). Il est reproduit ici à des fins de recherche dans le cadre du séminaire [«Écritures numériques et éditorialisation»](http://seminaire.sens-public.org/) (voir [l'atelier #2](http://seminaire.sens-public.org/spip.php?article70) proposé par Servanne Monjour et Matteo Treleani)._
 
 Pour citer cet article&nbsp;:
 
