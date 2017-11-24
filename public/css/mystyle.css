@@ -41,6 +41,28 @@ td {
   font-size: smaller;
 }
 
+.sommaire {
+  border: 1px solid lightgrey;
+  padding: 1rem 2rem 1rem 2rem;
+  background-color: #eeeeee;
+  max-width: 20rem;
+}
+
+.sommaire ul > li {
+  list-style-type: none;
+  font-size: 0.8rem;
+  margin-left: -1.5rem;
+  line-height: 1.2rem;
+
+}
+
+.sommaire ol > li {
+  list-style-type: none;
+  font-size: 0.7rem;
+
+}
+
+
 .footnotes {
     font-size: 1rem;
     margin-top: 2rem;
