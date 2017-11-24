@@ -26,18 +26,18 @@ mémoire, médiation, anticipation
 
 1. [Personnalisations](#personnalisations)
 	- [Publication](#publication)
-	- [Singularités](#singularits)
-	- [Aménagements](#amnagements)
+	- [Singularités](#singularités)
+	- [Aménagements](#aménagements)
 2. [Calculs](#calculs)
-	- [Intentionnalités](#intentionnalits)
-	- [Déliaisons](#dliaisons)
+	- [Intentionnalités](#intentionnalités)
+	- [Déliaisons](#déliaisons)
 	- [Indexations](#indexations)
-3. [Réappropriation](#rappropriation)
-	- [Désaffections](#dsaffections)
+3. [Réappropriation](#réappropriation)
+	- [Désaffections](#désaffections)
 	- [Adoptions](#adoptions)
-	- [Médiations](#mdiations)
+	- [Médiations](#médiations)
 	- [Anticipations](#anticipations)
-4. [Références biblio-sitographiques](#rfrences-biblio-sitographiques)
+4. [Références biblio-sitographiques](#références-biblio-sitographiques)
 {: .sommaire}
 
 # L'intelligence des traces
