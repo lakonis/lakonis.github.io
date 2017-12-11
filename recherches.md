@@ -59,9 +59,13 @@ title: Recherches
 
 ## Publications
 
+### 2017
+
+* Nicolas Sauret. **_Epistémologie du modèle&nbsp;: des humanités syntaxiques&nbsp;?_** Dossier _«&nbsp;Ontologies du numérique&nbsp;»_, sous la direction de S. Monjour, M. Treleani, M. Vitali-Rosati, Revue Sens Public, 2017 (à paraître)
+
 ### 2016
 
-* Nicolas Sauret, Ariane Mayer. **_L’autorité dans Anarchy. Les constructions de l’autorité et de l’auctorialité dans un dispositif de production littéraire collaborative : le cas de l’expérience transmédia Anarchy.fr_**. Revue Quaderni n°93, Printemps 2017. (à paraître)
+* Nicolas Sauret, Ariane Mayer. **_L’autorité dans Anarchy. Les constructions de l’autorité et de l’auctorialité dans un dispositif de production littéraire collaborative : le cas de l’expérience transmédia Anarchy.fr_**. Revue Quaderni n°93, Printemps 2017. [Sur OpenEdition Journals](http://journals.openedition.org/quaderni/1078)
 * Joëlle Le Marec, Nicolas Sauret. **_Archivage de répétitions et médiations du spectacle vivant. Le cas du projet Spectacle en ligne(s)_**. Les Cahiers du numérique, n°3/2016 (Vol.12), La médiation des mémoires en ligne, pp.139-164. [Sur Cairn.info](http://www.cairn.info/revue-les-cahiers-du-numerique-2016-3-page-139.htm)
 
 ### 2015
