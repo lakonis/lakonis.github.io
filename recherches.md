@@ -80,8 +80,13 @@ title: Recherches
 
 ### 2017
 
-
-* **Fabrique de la revue Sens Public : la revue scientifique comme espace public** [(présentation)]({{ site.github. url }}/s_SPacfas/)
+* **Stylo: Repenser la chaîne éditoriale numérique pour les revues savantes en sciences humaines** [(poster)](https://dh2017.adho.org/abstracts/224/224.pdf)  
+conférence internationale _Digital Humanities 2017_ [(ADHO)](http://adho.org/), Montréal
+* **Editorialisation et littérature, le cas du Général Instin** [(présentation)](https://ecrituresnumeriques.github.io/sInstinCerisy/)  
+colloque _Des humanités numériques littéraires\ ?_, 2017, Cerisy
+* **Editorialisation et littérature, le cas du Général Instin**  [(présentation)](https://ecrituresnumeriques.github.io/sInstinToronto/)  
+colloque _CSDH-SCHN 2017_ (Société canadienne des humanités numériques) dans le cadre de Congress 2017, Toronto
+* **Fabrique de la revue Sens Public : la revue scientifique comme espace public** [(présentation)]({{ site.github. url }}/s_SPacfas/)  
 _La publication savante en contexte numérique_, 2017, ACFAS (U. Mc Gill)
 * **L'autorité dans Anarchy. Les constructions de l'autorité dans un dispositif de production littéraire collaborative** [(présentation)]({{ site.github. url }}/sAnarchyAutoriteUdem/)  
 _Figures et expériences de l'autorité en littérature_, 2017, colloque étudiant du Département des littératures de langue française (UdeM)
