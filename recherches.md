@@ -61,7 +61,7 @@ title: Recherches
 
 ### 2017
 
-* Nicolas Sauret. **_Epistémologie du modèle&nbsp;: des humanités syntaxiques&nbsp;?_** Dossier _«&nbsp;Ontologies du numérique&nbsp;»_, sous la direction de S. Monjour, M. Treleani, M. Vitali-Rosati, Revue Sens Public, 2017 (à paraître)
+* Nicolas Sauret. **_Epistémologie du modèle&nbsp;: des Humanités syntaxiques&nbsp;?_** Dossier _«&nbsp;Ontologie du numérique&nbsp;»_, sous la direction de S. Monjour, M. Treleani, M. Vitali-Rosati, Revue Sens Public, 2017. [Sur Sens-public.org](http://sens-public.org/article1287.html)
 
 ### 2016
 
