@@ -20,7 +20,7 @@ h4, h5, h6 {
 }
 
 p {
-  font-size: smaller;
+  /* font-size: smaller; */
 }
 
 /*ul {
@@ -29,12 +29,12 @@ p {
 
 ul > li {
   list-style-type: "-  ";
-  font-size: smaller;
+  /* font-size: smaller; */
 }
 
 ol > li {
   list-style-type: decimal;
-  font-size: smaller;
+  /* font-size: smaller; */
 }
 
 td {
