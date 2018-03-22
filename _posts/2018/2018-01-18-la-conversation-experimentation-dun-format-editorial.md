@@ -5,13 +5,17 @@ date: "2018-01-18 10:08"
 category: carnet
 ---
 
+<style>
+  p {text-align:justify}
+</style>
+
 Le projet suivant a été présenté à [la Vitrine DH 2018](http://www.crihn.org/nouvelles/2017/09/17/vitrine-humanites-numeriques-dh-showcase-2018/), à l'Université de Montréal. Je publie ici le texte et la présentation qui reprend dans un format de 3 minutes les éléments de [la fabrique Sens Public]({{ site.github.url }}{% post_url 2017-05-17-communication-au-colloque-«la-publication-savante-en-contexte-numerique»-acfas %}).
 
-![Slide1 - Conversation : expérimentation + format éditorial = communication scientifique]({{ site.github.url }}/img/conversationVitrineDH2018_1.png)
+![Slide1 - Conversation : expérimentation + format éditorial = communication scientifique]({{ site.github.url }}/img/conversationVitrineDH2018_1.png){:width="80%"}
 
 ## Un double chantier
 
-![Slide2 - Un double chantier]({{ site.github.url }}/img/conversationVitrineDH2018_2.png)
+![Slide2 - Un double chantier]({{ site.github.url }}/img/conversationVitrineDH2018_2.png){:width="80%"}
 
 Le projet d'expérimentation s'inscrit en fait dans un double chantier, au sein de la revue [Sens Public](http://sens-public.org) :
 
@@ -20,10 +24,11 @@ Le projet d'expérimentation s'inscrit en fait dans un double chantier, au sein 
 
 ## Pourquoi un format éditorial conversationnel ?
 
-![Slide3 - Pourquoi un format éditorial conversationnel]({{ site.github.url }}/img/conversationVitrineDH2018_3.png)
+![Slide3 - Pourquoi un format éditorial conversationnel]({{ site.github.url }}/img/conversationVitrineDH2018_3.png){:width="80%"}
 
 ## Artefacts académiques vs. pratiques réelles
-![Slide4 - Artefacts académiques / Pratiques réelles]({{ site.github.url }}/img/conversationVitrineDH2018_4.png)
+
+![Slide4 - Artefacts académiques / Pratiques réelles]({{ site.github.url }}/img/conversationVitrineDH2018_4.png){:width="80%"}
 
 Nous sommes partis du constat d'un certain déphasage entre les pratiques de lecture et d'écriture des chercheurs en humanités, qui, elles, sont largement passées au numérique, et les formats traditionnels de communication scientifique, que ce soit l'article, la monographie ou la communication en conférence. Ce déphasage est double :
 
@@ -38,7 +43,7 @@ On pourrait penser que la conversation scientifique en pâtit. Or celle-ci se po
 
 ## Crystal of knowledge
 
-![Slide5 - Crystal of knowledge]({{ site.github.url }}/img/conversationVitrineDH2018_5.png)
+![Slide5 - Crystal of knowledge]({{ site.github.url }}/img/conversationVitrineDH2018_5.png){:width="80%"}
 
 Un concept nous a aidé à concevoir ce que serait une conversation. C'est le concept de « cristal de connaissances » introduit par Jean-Claude Guédon.
 
@@ -48,9 +53,9 @@ Temporaire, selon la temporalité propre à chaque problématique dans la commun
 
 ## Deux espaces
 
-![Slide6 - 2 espaces]({{ site.github.url }}/img/conversationVitrineDH2018_6.png)
+![Slide6 - 2 espaces]({{ site.github.url }}/img/conversationVitrineDH2018_6.png){:width="80%"}
 
-la revue aura donc deux espaces : 1) documentaire, axé sur les articles, et 2) conversationnel, axé sur les échanges sociaux.
+la revue aura donc deux espaces : 1)&nbsp;documentaire, axé sur les articles, et 2)&nbsp;conversationnel, axé sur les échanges sociaux.
 
 Mais il s'agit bien d'un même espace informationnel, comme les deux faces d'une même pièce, l'une alimentant l'autre, puisqu'en effet, les articles deviennent des supports et des prétextes à discussion et à conversation, tandis que les conversations peuvent _infiné_ aboutir à des publications plus classiques sous la forme d'article.
 
@@ -58,7 +63,7 @@ La dynamique change : d'un dossier de revue à une conversation, ce n'est plus u
 
 ## Design de la conversation
 
-![Slide7 - Design de la conversation]({{ site.github.url }}/img/conversationVitrineDH2018_7.png)
+![Slide7 - Design de la conversation]({{ site.github.url }}/img/conversationVitrineDH2018_7.png){:width="80%"}
 
 La conversation fonctionne sur le paradigme du flux. Or pour faire "format" ou pour faire "document", il nous faut articuler la dimension temporelle de la conversation avec une dimension spatiale documentaire.
 
@@ -66,7 +71,7 @@ Cette dimension spatiale nous sera donnée par des visualisations de la conversa
 
 ## Merci !
 
-![Slide8 - Merci]({{ site.github.url }}/img/conversationVitrineDH2018_8.png)
+![Slide8 - Merci]({{ site.github.url }}/img/conversationVitrineDH2018_8.png){:width="80%"}
 
 
 ---
