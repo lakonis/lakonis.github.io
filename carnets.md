@@ -8,7 +8,7 @@ Les études Anarchy et Instin possèdent leur propre carnet :
 * [carnet de recherche Instin]({{ site.github.url }}/behindinstin/) avec Servanne Monjour
 * [carnet de recherche Anarchy]({{ site.github.url }}/behindanarchy/) avec Ariane Mayer
 
-De manière plus générale, quelques traces de mes recherches sont à trouver ici :
+Quelques autres traces de mes recherches sont à trouver ici :
 <div class="posts">
   <ul class="post">
   {% for post in site.categories.carnet %}
