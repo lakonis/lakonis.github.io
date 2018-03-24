@@ -62,18 +62,14 @@ De cette écriture-milieu ou de la métaphore du cristal, il faut finalement ret
 De ce point de vue, Arthur Perret a bien cerné l'enjeu au-delà de la polémique[^polemique] lancée par Marcello sur _The Conversation_, [_Les chercheurs en SHS savent-ils écrire &nbsp;?_](https://theconversation.com/les-chercheurs-en-shs-savent-ils-ecrire-93024).
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Pour moi, l&#39;enjeu est moins l&#39;écriture que la dynamique nouvelle entre écrire et éditer. Et ce sont moins les pratiques que les outils qui me posent question : face à Word, avec quels outils peut-on généraliser une vraie culture de l&#39;éditorialisation ?</p>&mdash; Arthur Perret (@arthurperret) <a href="https://twitter.com/arthurperret/status/973327915592101888?ref_src=twsrc%5Etfw">12 mars 2018</a></blockquote>
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 Cette «&nbsp;vraie culture de l'éditorialisation&nbsp;» n'est rien d'autre selon nous que la littératie numérique qui ajoute au savoir-lire-et-écrire la maîtrise du milieu d'écriture, une capacité autant d'inscrire l'espace que de le structurer&nbsp;:
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Il s&#39;agit plus d&#39;un écosystème que d&#39;outils à mon sens. La littératie dont il est question doit permettre 1) d&#39;evoluer dans cet environnement (habiter) 2) de le faire évoluer (designer). 1/3</p>&mdash; nicolasauret (@nicolasauret) <a href="https://twitter.com/nicolasauret/status/973525569617977346?ref_src=twsrc%5Etfw">13 mars 2018</a></blockquote>
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">En ça il ne peut plus être question que d&#39;écriture, n&#39;en déplaise aux lettrés, mais bien d&#39;écriture et d&#39;édition en effet. 2/3</p>&mdash; nicolasauret (@nicolasauret) <a href="https://twitter.com/nicolasauret/status/973525829513875456?ref_src=twsrc%5Etfw">13 mars 2018</a></blockquote>
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">À moins qu&#39;éditer/editorialiser soit devenu aussi une forme d&#39;écriture. Ça marche dans les deux sens, écrire revient à éditer. C&#39;est à ça qu&#39;il faudrait former les chercheurs. 3/3</p>&mdash; nicolasauret (@nicolasauret) <a href="https://twitter.com/nicolasauret/status/973526390317383680?ref_src=twsrc%5Etfw">13 mars 2018</a></blockquote>
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 ----
 
