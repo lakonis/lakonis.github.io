@@ -1,9 +1,9 @@
 ---
-layout: "post"
-title: "L'écriture collaborative en recherche et création"
-date: "2018-03-21 15:10"
+layout: post
+title: L'écriture collaborative en recherche et création
+date: '2018-03-23 20:45'
 category: carnet
-author: Servanne Monjour, Nicolas Sauret
+author: 'Servanne Monjour, Nicolas Sauret'
 ---
 
 Avec Servanne Monjour, nous intervenons vendredi 23 mars dans une table ronde intitulée _L'écriture collaborative en recherche et création_, organisée par la [Tribune des étudiant(e)s en littérature comparée](https://tribunelittco.wordpress.com/).
