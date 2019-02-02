@@ -115,7 +115,7 @@ article blockquote footer { width: 55%;
                     font-size: 1.1rem;
                     text-align: right; }
 
-article section > p, section > footer, section > table { width: 65%; }
+article section > p, section > footer, section > table { width: 70%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
 article section > ol, section > ul { width: 50%;
@@ -172,7 +172,7 @@ article img { max-width: 100%; }
 article .sidenote, .marginnote { float: right;
                          clear: right;
                          margin-right: -60%;
-                         width: 40%;
+                         width: 45%;
                          margin-top: 0;
                          margin-bottom: 0;
                          font-size: 0.8rem;

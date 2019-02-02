@@ -14,7 +14,7 @@ article li> p {
 article .marginnote {
   float: left;
   clear: left;
-  margin-left: -45%;
+  margin-left: -50%;
   padding: 0 0 0.8rem 0;
   text-align: right;
   /*! color: blue; */
@@ -38,18 +38,18 @@ article nav {
 }
 
 section #bibliography {
- width: 94%; 
+ width: 94%;
  margin-left: 10px;
  margin-right: 10px;
 }
 
 section #bibliography h2 {
- width: 100%; 
+ width: 100%;
  margin-left: 10px;
  margin-right: 10px;
 }
 
-section #bibliography p { 
+section #bibliography p {
  margin-left: 10px;
  margin-right: 0px;
 }
