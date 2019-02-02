@@ -56,4 +56,10 @@ section #bibliography p {
 
 section.footnotes ol {
   width: 91%;
+  font-size: 0.9rem;
+}
+
+article hr {
+  width: 94%;
+  margin-left: 20px;
 }
