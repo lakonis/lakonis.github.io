@@ -63,3 +63,11 @@ article hr {
   width: 94%;
   margin-left: 20px;
 }
+
+div#piedSensPublic h2, div#menuSitePied h2 {
+  margin-left: 0%;
+}
+
+div#menu1 li {
+  line-height: 1rem;
+}
