@@ -327,31 +327,51 @@ table td {
   }
 }
 
-nav {
-  display: none;
+nav::before {
+  content: 'Table des matières';
+  font-weight: bold;
+  padding-left: 2em;
 }
 
-div#schema-scholarly-article {
+nav {
+position: fixed;
+top: 0;
+left: 0;
+font-size: ;
+font-weight: 500;
+padding-top: 3em;
+width: 20%;
+}
+
+nav li {
+  list-style-type: none;
+  padding-top: 0.8em;
+  line-height: 1.3em;
+  
+}
+
+header {
   border: 1px solid black;
+  padding:10px;
+  background-color: rgb(240,240,240);
     
 }
 
 #schema-scholarly-article > span[property=name]:nth-child(1){
   font-size: xx-large;
-  color: orange;
   line-height: 2em;
   text-align: center;
 }
 
 #schema-scholarly-article > span[property=name]:nth-child(3){
   font-size: larger;
-  color: orange;
   line-height: 2em;
   text-align: center;
 }
 
+
 #schema-scholarly-article > span[property=author]{
-  font-size: larger;
+  font-size: large;
   padding-top: 20px;
   line-height: 2em;
 }
@@ -438,7 +458,151 @@ div.authorKeywords_en span::after {
   content: '.';
 }
 
-span.epigraphe: {
+p span.epigraphe {
+  margin-left: 10%;
+  margin-right: 20%;
+  text-align: left;
+  margin-bottom: 2em;
+  float: right;
   font-style: italic;
-  padding-left: 50px;
+}
+
+p span.epigraphe span.source {
+  content: '— ';
+}
+
+p span.dedicace {
+  margin-left: 1O%;
+  text-align: left;
+  margin-bottom: 2em;
+  float: right;
+  font-style: italic;
+}
+
+p span.note {
+  margin-left: 10%;
+  text-align: left;
+  margin-bottom: 2em;
+  float: right;
+  font-style: italic;
+}
+
+span.these {
+  background-color: MistyRose;
+}
+
+span.these:hover::before {
+  content: "These: <";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.these:hover::after {
+  content: ">";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.exemple {
+  background-color: PowderBlue;
+}
+
+span.exemple:hover::before {
+  content: "Exemple: <";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.exemple:hover::after {
+  content: ">";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.concept {
+  background-color: Plum;
+}
+
+span.concept:hover::before {
+  content: "Concept: <";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.concept:hover::after {
+  content: ">";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.definition {
+  background-color: Peachpuff;
+}
+
+span.definition:hover::before {
+  content: "Definition: <";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.definition:hover::after {
+  content: ">";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.question {
+  background-color: PaleGoldenRod ;
+}
+
+span.question:hover::before {
+  content: "Question: <";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+span.question:hover::after {
+  content: ">";
+  position:relative;
+  color: purple;
+  background-color: whitesmoke;
+  font-size: 1em;
+  padding-left:5px;
+  padding-right:5px;
 }
