@@ -494,120 +494,110 @@ p span.note {
 }
 
 span.these {
-  background-color: MistyRose;
+  text-decoration: underline double #a91e58;
 }
 
 span.these:hover::before {
-  content: "These: <";
+  content: "[These: ";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #a91e58;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.these:hover::after {
-  content: ">";
+  content: "]";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #a91e58;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.exemple {
-  background-color: PowderBlue;
+  text-decoration: underline double  #b37114;
 }
 
 span.exemple:hover::before {
-  content: "Exemple: <";
+  content: "[Exemple: ";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #b37114;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.exemple:hover::after {
-  content: ">";
+  content: "]";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #b37114;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.concept {
-  background-color: Plum;
+  text-decoration: underline double #14b371;
 }
 
 span.concept:hover::before {
-  content: "Concept: <";
+  content: "[Concept: ";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #14b371;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.concept:hover::after {
-  content: ">";
+  content: "]";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #14b371;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.definition {
-  background-color: Peachpuff;
+  text-decoration: underline double #1456b3;
 }
 
 span.definition:hover::before {
-  content: "Definition: <";
+  content: "[Definition: ";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #1456b3;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.definition:hover::after {
-  content: ">";
+  content: "]";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #1456b3;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.question {
-  background-color: PaleGoldenRod ;
+  text-decoration: underline double #ff7214 ;
 }
 
 span.question:hover::before {
-  content: "Question: <";
+  content: "[Question: ";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #ff7214;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
 }
 
 span.question:hover::after {
-  content: ">";
+  content: "]";
   position:relative;
-  color: purple;
-  background-color: whitesmoke;
+  color: #ff7214;
   font-size: 1em;
   padding-left:5px;
   padding-right:5px;
