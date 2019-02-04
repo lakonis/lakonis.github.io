@@ -351,7 +351,7 @@ nav li {
 }
 
 header {
-  border: 1px solid black;
+  border: 1px solid rgb(200,200,200);
   padding:10px;
   background-color: rgb(240,240,240);
     
@@ -456,6 +456,12 @@ div.authorKeywords_en span::before {
 
 div.authorKeywords_en span::after {
   content: '.';
+}
+
+hr#startArticle {
+  margin-top: 4em;
+  height: 1px; 
+  border-top : 1px solid rgb(200,200,200)
 }
 
 p span.epigraphe {
