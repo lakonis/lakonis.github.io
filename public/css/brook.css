@@ -28,7 +28,6 @@ article .locuteur {
     font-weight: bold;
 }
 
-
 article img {
     max-width: 50%;
 }
@@ -37,19 +36,19 @@ article nav {
   display: none;
 }
 
-section #bibliography {
+section #bibliography, section #bibliographie, section #bibliografía {
  width: 94%;
- margin-left: 10px;
- margin-right: 10px;
+ margin-left: auto;
+ margin-right: auto;
 }
 
-section #bibliography h2 {
+section #bibliography h2, section #bibliographie h2, section #bibliografía h2 {
  width: 100%;
- margin-left: 10px;
- margin-right: 10px;
+ margin-left: auto;
+ margin-right: auto;
 }
 
-section #bibliography p {
+section #bibliography p, section #bibliographie p, section #bibliografía p {
  margin-left: 10px;
  margin-right: 0px;
 }
