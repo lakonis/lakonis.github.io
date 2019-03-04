@@ -10,13 +10,15 @@ title: Recherches
 <i class="fa fa-arrow-right"></i> **Dossier _Écrire les communs, au devant de l'irréversible_**
 
 - Dossier en édition continue pour la revue _Sens public_, initié avec Sylvia Fredrikkson en mai 2018.
-- Rendu public le 1er mars 2018, _Écrire les communs_ se veut un appel à poursuivre les conversations qui ont accompagné l'élaboration collective du dossier.
+- Rendu public le 1er mars 2019, _Écrire les communs_ se veut un appel à poursuivre les conversations qui ont accompagné l'élaboration collective du dossier.
 - [Sommaire et introduction](http://sens-public.org/article1383.html)
 
 
 <i class="fa fa-arrow-right"></i> **Coordinateur scientifique du projet Revue 2.0**
 
 - Le projet [_Revue 2.0_](http://revue20.org/) vise à repenser le rôle des revues savantes dans les sciences humaines et sociales et à accompagner les acteurs de l’édition scientifique dans leur transition numérique.
+- Subvention Développement partenariat du CRSH/SSHRC pour 3 an (2018-2021).
+- 6 revues partenaires + Erudit, OpenEdition, Human-Num.
 
 
 <i class="fa fa-arrow-right"></i> **Coordinateur de la refonte de la revue scientifique en ligne Sens Public**
