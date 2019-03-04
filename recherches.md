@@ -7,10 +7,22 @@ title: Recherches
 
 ## Activités en cours
 
+<i class="fa fa-arrow-right"></i> **Dossier _Écrire les communs, au devant de l'irréversible_**
+
+- Dossier en édition continue pour la revue _Sens public_, initié avec Sylvia Fredrikkson en mai 2018.
+- Rendu public le 1er mars 2018, _Écrire les communs_ se veut un appel à poursuivre les conversations qui ont accompagné l'élaboration collective du dossier.
+- [Sommaire et introduction](http://sens-public.org/article1383.html)
+
+
+<i class="fa fa-arrow-right"></i> **Coordinateur scientifique du projet Revue 2.0**
+
+- Le projet [_Revue 2.0_](http://revue20.org/) vise à repenser le rôle des revues savantes dans les sciences humaines et sociales et à accompagner les acteurs de l’édition scientifique dans leur transition numérique.
+
+
 <i class="fa fa-arrow-right"></i> **Coordinateur de la refonte de la revue scientifique en ligne Sens Public**
 
 - projet : repenser la revue scientifique à l’ère du numérique
-- design et prototypage de la [chaîne éditoriale](https://github.com/EcrituresNumeriques/chaineEditorialSP) de la revue
+- design et prototypage de la [chaîne éditoriale](https://github.com/EcrituresNumeriques/chaineEditorialSP/) de la revue
 - ateliers de co-conception, « grands entretiens » (voir carnet).
 - financement FRQSC de la CRC sur les écritures numériques
 - [carnet de recherche](http://nicolassauret.net/carnets/) et [prototype](https://github.com/EcrituresNumeriques/sensPublicApp/)
