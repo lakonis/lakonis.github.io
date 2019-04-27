@@ -11,7 +11,6 @@ Cet article fait le point sur les enjeux du web sémantique pour les données de
 
 > Comment alors les données liées peuvent-elles conduire à une meilleure écologie de la publication pour l’érudition et, en particulier, permettre aux publications savantes d’interagir avec les ensembles de données produites par les bibliothèques et les musées, d’une part, et les entreprises de publication officielle, d’autre part, et de les améliorer et de les enrichir&nbsp;? Ici, l’accent sera mis sur plusieurs avantages qui n’épuisent aucune possibilité&nbsp;: 1)&nbsp;l’interconnexion et, au moins au niveau de l’interface, l'intégration des ressources&nbsp;; 2)&nbsp;la mise à disposition d'informations contextuelles et relationnelles comme base pour une environnement riche de connaissances&nbsp;; 3)&nbsp;les boucles de rétroaction qui améliorent la qualité des données, en particulier ceux qui sont fournies par les fournisseurs d'information à grande échelle&nbsp;; et 4)&nbsp;l’incorporation d’une diversité de discours, de méthodologies, et de données y compris des ontologies nuancées et des ensembles de données qui respectent le local et le particulier avec les valeurs aberrantes même si elles peuvent apparaître comme du « bruit » dans de grands ensembles.[^trad]
 
-[^trad]: Traduit de l’anglais par Jasmine Drudge-Willson.
 
 La discussion qui a suivi a permis de soulever plusieurs aspects dont certains résonnent avec mes réflexions récentes. Je ne retiens ici que ces derniers.
 
@@ -23,7 +22,6 @@ L'interconnexion des bases de données sémantiques ajoute alors un degré d'hom
 
 Mais revenons à notre idée et à la question posée lors de la discussion&nbsp;: comment assurer une certaine diversité de vocabulaire, de description, mais aussi de modèle&nbsp;? Chaque discipline, chaque laboratoire, chaque producteur de données ne devraient-ils pouvoir développer ses propres modèles pour décrire le monde[^guy]&nbsp;? Peut-on vraiment sacrifier la richesse du langage naturel sur l'autel de la manipulabilité et de l'interopérabilité&nbsp;?
 
-[^guy]: Voir à ce sujet l'article de Jean-Guy Meunier « Humanités numériques ou computationnelles : Enjeux herméneutiques » sur la modélisation des humanités, publié sur [Sens Public](http://www.sens-public.org/article1121.html).
 
 À cette question, Stéphane Poullyau, directeur d'Human-Num et ingénieur du moteur de recherche [Isidore.science](http://isidore.science/), botte en touche. Non, malgré l'enjeu considérable, les algorithmes et les ontologies du moteur de recherche actuel n'adressent pas cette question, «&nbsp;on ne sait pas faire&nbsp;». Isidore, [dans ses récents développements](https://humanum.hypotheses.org/4784), a davantage parié sur l'outillage de la communauté pour valider les informations, les liens générés, les enrichissements proposés par l'algorithme, avec cette idée d'un *"cyber-approval"* sur les données («&nbsp;validées par la communauté&nbsp;»).
 
@@ -56,3 +54,7 @@ Je reviens alors à mon obsession, celle de la circulation et de l'appropriation
 [^romain]: Voir l'article de Romain Lalande « Les récits des Communs se nourrissent d'ailleurs. De l'importance de cultiver nos lisières » en cours d'écriture et [publié en édition continue](https://via.hypothes.is/https://stylo.ecrituresnumeriques.ca/api/v1/htmlArticle/5bfd580e560a91001754d4f7?preview=true) sur Sens Public dans le cadre du dossier [« Écrire les communs : au devant de l'irréversible »](http://sens-public.org/article1383.html).
 
 [^hedge]: Hegde, Medha. (2012). Ecotones: the transitional zones. Biotech Articles, 12. URL: http://www.biotecharticles.com/Biology-Article/Ecotones-The-Transitional-Zones-2191.html [July 17, 2015].
+
+[^guy]: Voir à ce sujet l'article de Jean-Guy Meunier « Humanités numériques ou computationnelles : Enjeux herméneutiques » sur la modélisation des humanités, publié sur [Sens Public](http://www.sens-public.org/article1121.html).
+
+[^trad]: Traduit de l’anglais par Jasmine Drudge-Willson.
