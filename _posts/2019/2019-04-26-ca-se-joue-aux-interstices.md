@@ -50,16 +50,6 @@ Cet interstice, j'avais pu le retrouver aussi dans les écrits de Louise Merzeau
 Je reviens alors à mon obsession, celle de la circulation et de l'appropriation. Alors que les auteur·e·s de l'article et la présentation de Susan mettaient l'accent sur la validation des données grâce des boucles de rétroactions (_feedback loop_) permettant de corriger, de créer ou d'enrichir les données sémantiques, je préfèrerais pour ma part parier sur des éditorialisations favorisant les dynamiques de circulation et d'appropriation des données, aussi  pauvres ou erronées soient ces dernières. Ce sont évidemment deux aspects fortement complémentaires et l'un ne peut remplacer l'autre, cependant, il me semble qu'investir sur des dispositifs de conversation sur et avec les données est susceptible de produire davantage de richesse, de diversité et de nouveauté. C'est un peu la stratégie proposée par Isidore.science en ouvrant [un service de veille ou de collection](https://humanum.hypotheses.org/5320), qui rappelle à nouveau la culture anthologique, et l'idée que l'appropriation des ressources embarque toujours une part de réécriture et donc d'interprétation.
 
 
-<!--
-- [x] la diversité ? aux interstices
-- [ ] l'enjeu : validité des données ou conversation ? dynamique de circulation
-
-  l'idée de la circulation chez isidore : la veille
-  la machine à différence (voir susan brown)
--->
-
-
-
 
 [^conversation]: voir l'article [« Design de la conversation scientifique : naissance d’un format éditorial »](https://www.cairn.info/revue-sciences-du-design-2018-2-page-57.htm) dans Sciences du design 2018/2 (n°8).
 
