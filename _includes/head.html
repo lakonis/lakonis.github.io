@@ -5,6 +5,35 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="keywords" content="Editorialisation, Écritures numériques, Knowledge Design, Digital Humanities, Nicolas Sauret" />
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+  <meta property="DC.creator" content="{{ site.author.name }}" />
+  <meta property="DC.publisher" content="{{ site.author.name }}" />
+  <meta property="DC.language" content="fr" />
+  {% if page.title == "Home" %}<meta property="DC.title" content="{{ site.title }} - {{ site.tagline }}" />{% else %} <meta property="DC.title" content="{{ page.title }} - {{ site.title }}" />{% endif %}
+  <meta property="DC.description" content="{{ site.description }}" />
+  <meta property="DC.rights" content="{{ site.rights }}" />
+  <meta property="DC.date" content="{{ page.date }}" />
+
+  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:url" content="{{ page.url }}">
+  <meta property="og:description" content="{{ site.description }}"/>
+  <meta property="og:site_name" content="{{ site.title  }}"/>
+  <meta property="og:type" content="website"/>
+  <!--  https://schema.org/Article -->
+  <meta property="description" content="{{ site.description }}">
+  <meta property="article:published" content="{{ page.date }}">
+  <meta property="article:created" content="{{ page.date }}">
+  <meta property="article:author" content="{{ site.author.name }}">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:domain" content="{{ site.url }}" />
+  <meta name="twitter:creator" content="@nicolasauret"/>
+  <meta name="twitter:site" content="@nicolasauret" />
+  {% if page.title == "Home" %}<meta name="twitter:title" content="{{ site.title }} - {{ site.tagline }}" />{% else %}<meta name="twitter:title" content="{{ page.title }} - {{ site.title }}" />{% endif %}
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}"/>
 
   <title>
     {% if page.title == "Home" %}
