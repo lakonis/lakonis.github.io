@@ -1,5 +1,5 @@
 
-table {
+article table {
     margin-bottom: 2em;
     border-bottom: 1px solid #ddd;
     border-right: 1px solid #ddd;
@@ -7,14 +7,14 @@ table {
     border-collapse: collapse;
 }
 
-table th {
+article table th {
     padding: .2em 1em;
     background-color: #eee;
     border-top: 1px solid #ddd;
     border-left: 1px solid #ddd;
 }
 
-table td {
+article table td {
 
     padding: .2em 1em;
     border-top: 1px solid #ddd;
