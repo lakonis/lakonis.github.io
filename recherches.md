@@ -7,18 +7,29 @@ title: Recherches
 
 ## Activités en cours
 
-<i class="fa fa-arrow-right"></i> **Dossier _Écrire les communs, au devant de l'irréversible_**
-
-- Dossier en édition continue pour la revue _Sens public_, initié avec Sylvia Fredrikkson en mai 2018.
-- Rendu public le 1er mars 2019, _Écrire les communs_ se veut un appel à poursuivre les conversations qui ont accompagné l'élaboration collective du dossier.
-- [Sommaire et introduction](http://sens-public.org/article1383.html)
-
 
 <i class="fa fa-arrow-right"></i> **Coordinateur scientifique du projet Revue 2.0**
 
-- Le projet [_Revue 2.0_](http://revue20.org/) vise à repenser le rôle des revues savantes dans les sciences humaines et sociales et à accompagner les acteurs de l’édition scientifique dans leur transition numérique.
-- Subvention Développement partenariat du CRSH/SSHRC pour 3 an (2018-2021).
+- le projet [_Revue 2.0_](http://revue20.org/) vise à repenser le rôle des revues savantes dans les sciences humaines et sociales et à accompagner les acteurs de l’édition scientifique dans leur transition numérique.
+- subvention Développement partenariat du CRSH/SSHRC pour 3 an (2018-2021).
 - 6 revues partenaires + Erudit, OpenEdition, Human-Num.
+
+<i class="fa fa-arrow-right"></i> **Dossier _Écrire les communs, au devant de l'irréversible_**
+
+- dossier en édition continue pour la revue _Sens public_, initié avec [Sylvia Fredrikkson](http://www.sylviafredriksson.net/) en mai 2018.
+- rendu public le 1er mars 2019, _Écrire les communs_ se veut un appel à poursuivre les conversations qui ont accompagné l'élaboration collective du dossier.
+- [Sommaire et introduction](http://sens-public.org/article1383.html)
+
+<i class="fa fa-arrow-right"></i> **Organisateur de l'événement _Publishing Sphere_, Montréal 2019**
+
+- trois jours de réflexion et d'ateliers pour expérimenter des formes d’écritures, de publication et de performances susceptibles d’ouvrir des nouveaux espaces d’expression, d’échange et de création, et renouveler ainsi les modalités de construction de l’espace public.
+- conception et organisation de l'événement
+- financement CRSH Connexion
+- développement de l'outil de co-écriture [_pink my pad_](http://notes.ecrituresnumeriques.ca/)[^pink]
+- [site officiel](http://publishingsphere.ecrituresnumeriques.ca)
+- [archive de l'espace de co-écriture](http://notes.ecrituresnumeriques.ca/2uMYqwveTg-Uy90ELVarfg.html)
+
+[^pink]: nom dynamique, sujet à changement.
 
 
 <i class="fa fa-arrow-right"></i> **Coordinateur de la refonte de la revue scientifique en ligne Sens Public**
@@ -27,16 +38,24 @@ title: Recherches
 - design et prototypage de la [chaîne éditoriale](https://github.com/EcrituresNumeriques/chaineEditorialSP/) de la revue
 - ateliers de co-conception, « grands entretiens » (voir carnet).
 - financement FRQSC de la CRC sur les écritures numériques
-- [carnet de recherche](http://nicolassauret.net/carnets/) et [prototype](https://github.com/EcrituresNumeriques/sensPublicApp/)
+- [carnet de recherche](http://nicolassauret.net/carnets/) et [prototype](https://framagit.org/ecrinum/sp_hub/)
 
 <i class="fa fa-arrow-right"></i> **Organisateur du séminaire Écritures numériques et éditorialisation**, 2011-  
 
 - cycle mensuel en duplex avec l'Université de Montréal  
 - partenaires : IRI, Sens Public, Univ. de Montréal, Univ. Paris Ouest Nanterre  
 - programme, coordination et animation des sessions  
-- [site](seminaire.sens-public.org) et [archives](http://polemictweet.com/edito/select.php)
+- [site](seminaire.sens-public.org) et [archives vidéo](http://polemictweet.com/edito/select.php)
 
-<i class="fa fa-arrow-right"></i> **Coordinateur scientifique du [CRIHN](http://www.crihn.org/), le Centre de recherche interuniversitaire sur les humanités numériques**, 2016-
+
+<i class="fa fa-arrow-right"></i> Coordinateur de l'ouvrage collectif _version 0. Notes sur le livre numérique_
+
+- Conception et coordination d'un _booksprint_ pour la réalisation d'un ouvrage en deux jours (15 participants, 6 éditeurs), dans le cadre du colloque [ÉCRIDIL 2018](http://ecridil.ex-situ.info) – «Écrire, éditer, lire à l'ère numérique»
+- [le booksprint](http://ecridil.ex-situ.info/booksprint)
+- [l'ouvrage sur OpenLibrary.org](https://openlibrary.org/books/OL26501805M/Version_0._Notes_sur_le_livre_num%C3%A9rique)
+- [sources](https://framagit.org/ecrinum/ecridil-booksprint)
+
+<i class="fa fa-arrow-right"></i> **Coordinateur scientifique du [CRIHN](http://www.crihn.org/), le Centre de recherche interuniversitaire sur les humanités numériques**, 2016-2017
 
 <i class="fa fa-arrow-right"></i> **Étude sur _Général Instin_ : dispositif et éditorialisation d'une littérature brouhaha**, 2016-  
 
@@ -100,6 +119,23 @@ title: Recherches
 [Hal-00987995](https://hal.inria.fr/hal-00987995)
 
 ## Conférences scientifiques
+
+### 2018
+
+- **Stylo, éditeur sémantique pour les humanités**  
+colloque CRIHN _« Repenser les humanités numériques / Thinking the Digital Humanities Anew »_, Montréal, 25 octobre 2018.
+- **Stylo : un éditeur de texte pour les sciences humaines et sociales**, avec Marcello Vitali-Rosati  
+ congrès « Édition scientifique 4.0. 8es journées du réseau Médici », Avignon, 18 septembre 2018.
+- **L’écriture dispositive du réseau d’écrivains : la conversation comme forme éditoriale**  
+panel «Quelle littérature numérique pour demain ?» de la conférence internationale de l’_Electronic Literature Organization « ELO 2018 — Mind the gap! »_, Montréal, 13-18 août 2018
+- **Conversations in scholarly journals: experimenting scientific communication with a dynamic and continuous editorial format**  
+congrès annuel de la Société Canadienne des Humanités Numériques, Université de Regina, Regina, 26 mai 2018.
+- **L’accès libre : un devoir moral et scientifique** avec Joana Casenave, Jean-Claude Guédon, Michael E. Sinatra et Marcello Vitali-Rosati  
+conférence virtuelle internationale _Sustainable Research_ organisée par l’Université d’Alberta, Montréal, 2 mai 2018.
+- **table ronde «Publier la recherche»**  
+colloque international _Écridil : écrire, éditer, lire à l’ère numérique_, Usine C, Montréal, 30 avril 2018.
+- **Conversations in scholarly journals: experimenting editorial format for scientific communication**  
+_La Vitrine sur les Humanités Numériques_, Université de Montréal, Montréal, 26 janvier 2018.
 
 ### 2017
 
