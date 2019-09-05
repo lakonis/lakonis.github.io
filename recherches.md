@@ -48,7 +48,7 @@ title: Recherches
 - [site](seminaire.sens-public.org) et [archives vidéo](http://polemictweet.com/edito/select.php)
 
 
-<i class="fa fa-arrow-right"></i> Coordinateur de l'ouvrage collectif _version 0. Notes sur le livre numérique_
+<i class="fa fa-arrow-right"></i> **Coordinateur de l'ouvrage collectif _version 0. Notes sur le livre numérique_**
 
 - Conception et coordination d'un _booksprint_ pour la réalisation d'un ouvrage en deux jours (15 participants, 6 éditeurs), dans le cadre du colloque [ÉCRIDIL 2018](http://ecridil.ex-situ.info) – «Écrire, éditer, lire à l'ère numérique»
 - [le booksprint](http://ecridil.ex-situ.info/booksprint)
